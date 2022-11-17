@@ -1,0 +1,5 @@
+install.packages(c("remotes",
+                   "tidyverse",
+                   "rmarkdown",
+                   "readr",
+                   "sjmisc"))
