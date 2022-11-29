@@ -1,0 +1,3671 @@
+word,entity,count
+musk,PERSON,1147
+twitter,PERSON,861
+twitter,PRODUCT,479
+elon musk,PRODUCT,404
+tesla,ORG,345
+trump,ORG,273
+twitter,GPE,222
+one,CARDINAL,218
+don,PERSON,205
+elon,PRODUCT,187
+elon musk,PERSON,154
+first,ORDINAL,132
+//www,GPE,131
+elon musk,WORK_OF_ART,125
+twitter,ORG,122
+//www,ORG,109
+elon,ORG,106
+us,GPE,90
+spacex,PERSON,85
+tesla,PERSON,84
+two,CARDINAL,83
+putin,PERSON,77
+ukraine,GPE,70
+russia,GPE,68
+000,CARDINAL,54
+half,CARDINAL,53
+today,DATE,51
+china,GPE,50
+billions,CARDINAL,50
+gonna,PERSON,48
+years,DATE,42
+https,PERSON,39
+html,PERSON,39
+bezos,PERSON,39
+$44 billion,MONEY,37
+doesn',ORG,36
+reddit,NORP,36
+mars,LOC,34
+second,ORDINAL,34
+russian,NORP,34
+100%,PERCENT,33
+kanye,GPE,33
+republicans,NORP,29
+qatar,GPE,29
+nasa,ORG,28
+3 months,DATE,28
+thousands,CARDINAL,27
+truth social,ORG,27
+millions,CARDINAL,26
+zero,CARDINAL,26
+cnn,ORG,25
+american,NORP,24
+republican,NORP,24
+saudis,NORP,24
+saudi,NORP,24
+teslas,PERSON,24
+jews,NORP,23
+google,ORG,22
+gop,ORG,22
+twitter,LOC,22
+daily,DATE,22
+fifa,ORG,22
+eu,ORG,22
+x200b,ORG,21
+44b,MONEY,21
+cnbc,ORG,21
+america,GPE,20
+the day,DATE,20
+chinese,NORP,19
+20,CARDINAL,19
+three,CARDINAL,19
+alex jones,PERSON,18
+50%,PERCENT,17
+tony stark,PERSON,17
+tesla,NORP,17
+thursday,DATE,17
+facebook,PERSON,17
+weeks,DATE,16
+sec,ORG,16
+10,CARDINAL,16
+california,GPE,16
+donald trump,PERSON,16
+44 billion,CARDINAL,15
+meta,ORG,15
+a month,DATE,15
+last week,DATE,14
+youtube,ORG,14
+amazon,ORG,14
+jack dorsey,PERSON,14
+paypal,ORG,14
+reuters,ORG,14
+tomorrow,DATE,14
+elon,PERSON,14
+bs,ORG,14
+europe,LOC,14
+americans,NORP,13
+ukrainian,NORP,13
+2024,DATE,13
+starlink,ORG,13
+three months,DATE,13
+democrats,NORP,13
+75%,PERCENT,13
+yesterday,DATE,13
+60 days,DATE,13
+jeff bezos,PERSON,12
+ford,ORG,12
+these days,DATE,12
+decades,DATE,12
+texas,GPE,12
+starlink,GPE,12
+nazi,NORP,12
+2022,DATE,12
+hours,TIME,12
+jesus,PERSON,12
+ftc,ORG,12
+fox news,ORG,12
+hundreds,CARDINAL,12
+wfh,ORG,12
+tsla,PERSON,12
+maga,ORG,12
+south africa,GPE,11
+biden,PERSON,11
+this year,DATE,11
+6 months,DATE,11
+ai,ORG,11
+tiktok,ORG,11
+trump,PERSON,11
+a year,DATE,11
+20%,PERCENT,11
+reddit,LOC,11
+the world cup,EVENT,11
+toyota,ORG,11
+$100 billion,MONEY,11
+desantis,PRODUCT,11
+usa,GPE,10
+kinda,PERSON,10
+zuckerberg,PERSON,10
+a billion dollars,MONEY,10
+1%,PERCENT,10
+100,CARDINAL,10
+earth,LOC,10
+germany,GPE,10
+long hours,TIME,10
+democrat,NORP,10
+50,CARDINAL,10
+wikipedia,ORG,10
+2 billion,CARDINAL,9
+5 billion,CARDINAL,9
+bbc,ORG,9
+a few months,DATE,9
+44 billion,MONEY,9
+european,NORP,9
+peter thiel,PERSON,9
+monday,DATE,9
+tuesday,DATE,9
+india,GPE,9
+friday,DATE,9
+san francisco,GPE,9
+$13 billion,MONEY,9
+crimea,GPE,9
+a ton,QUANTITY,9
+90%,PERCENT,9
+$4 million,MONEY,9
+ev,ORG,9
+30 days,DATE,9
+months,DATE,8
+idk,PERSON,8
+last year,DATE,8
+didn,PERSON,8
+un,ORG,8
+54,MONEY,8
+the united states,GPE,8
+the end of the day,DATE,8
+](https,GPE,8
+next week,DATE,8
+$1 billion,MONEY,8
+25%,PERCENT,8
+facebook,PRODUCT,8
+jewish,NORP,8
+third,ORDINAL,8
+democratic,NORP,8
+70 hour,TIME,8
+4d,CARDINAL,8
+saudi arabia,GPE,8
+trumps,PERSON,8
+jones,PERSON,8
+7 billion,CARDINAL,7
+this week,DATE,7
+mastodon,PERSON,7
+200,MONEY,7
+$2 billion,MONEY,7
+99%,PERCENT,7
+60%,PERCENT,7
+german,NORP,7
+6 billion,CARDINAL,7
+apple,ORG,7
+thailand,GPE,7
+500,CARDINAL,7
+microsoft,ORG,7
+years ago,DATE,7
+next year,DATE,7
+canada,GPE,7
+edison,PERSON,7
+facebook,ORG,7
+44 billion dollar,MONEY,7
+iran,GPE,7
+the year,DATE,7
+1995,DATE,7
+7500,CARDINAL,7
+44b,CARDINAL,7
+80 hour,TIME,7
+sbf,ORG,7
+billions of dollars,MONEY,7
+ev,PRODUCT,7
+annual,DATE,7
+vox dei,PERSON,7
+aljazeera,ORG,7
+irish,NORP,7
+two weeks,DATE,6
+a few years ago,DATE,6
+a few days,DATE,6
+theguardian,PERSON,6
+larry ellison,PERSON,6
+time,ORG,6
+billion dollar,MONEY,6
+murdoch,PERSON,6
+musk doesn',PERSON,6
+japanese,NORP,6
+japan,GPE,6
+only one,CARDINAL,6
+nato,ORG,6
+four,CARDINAL,6
+tos,ORG,6
+one day,DATE,6
+2021,DATE,6
+a few years,DATE,6
+shit,ORG,6
+the next year,DATE,6
+80%,PERCENT,6
+2018,DATE,6
+zuckerberg,ORG,6
+11,CARDINAL,6
+10%,PERCENT,6
+100,MONEY,6
+44 billion dollars,MONEY,6
+a week,DATE,6
+congress,ORG,6
+a good day,DATE,6
+2017,DATE,6
+the 21st century,DATE,6
+elon,WORK_OF_ART,6
+phd,WORK_OF_ART,6
+physics,ORG,6
+six,CARDINAL,6
+michael scott,PERSON,6
+ipo,ORG,6
+lol,ORG,6
+disney,ORG,6
+zelensky,PERSON,6
+israel,GPE,6
+ethan,PERSON,6
+nick cannon,PERSON,5
+4 million,CARDINAL,5
+dsa,ORG,5
+bill gates,PERSON,5
+twit,PERSON,5
+enron,ORG,5
+paypal,PERSON,5
+zuck,PERSON,5
+uk,GPE,5
+2fa,CARDINAL,5
+frohnhoefer,PERSON,5
+$4 billion,MONEY,5
+morning,TIME,5
+2020,DATE,5
+march tweet](https,DATE,5
+knowin y',PERSON,5
+pcmag,GPE,5
+crimea,ORG,5
+2023,DATE,5
+stanford,ORG,5
+44bn,MONEY,5
+ftx,ORG,5
+dozens,CARDINAL,5
+russians,NORP,5
+jesus christ,PERSON,5
+every year,DATE,5
+steve jobs,PERSON,5
+1 billion,CARDINAL,5
+lot,ORG,5
+musk twitter,PERSON,5
+2 years,DATE,5
+indian,NORP,5
+day 1,DATE,5
+28,MONEY,5
+a few days ago,DATE,5
+15,CARDINAL,5
+$5 billion,MONEY,5
+twtr,ORG,5
+africa,LOC,5
+zip2,PRODUCT,5
+elon musk and,WORK_OF_ART,5
+$50 billion,MONEY,5
+joe rogan,PERSON,5
+kanye west,GPE,5
+house,ORG,5
+trump’s,ORG,5
+2 months,DATE,5
+51,CARDINAL,5
+christians,NORP,5
+hitler,PERSON,5
+90 days,DATE,5
+ireland,GPE,5
+cruella de musk,PERSON,4
+every single day,DATE,4
+fuck elon musk,WORK_OF_ART,4
+eli lilly,ORG,4
+doesn,ORG,4
+tucker carlson,PERSON,4
+vladimir putin,PERSON,4
+bernie,PERSON,4
+earlier this year,DATE,4
+ohio,GPE,4
+ip,ORG,4
+twitter,NORP,4
+all day,DATE,4
+gm,ORG,4
+the last few years,DATE,4
+sf,GPE,4
+twitter 2,FAC,4
+two months later,DATE,4
+october 3,DATE,4
+1783,DATE,4
+krushchev,ORG,4
+a few weeks ago,DATE,4
+tumblr,ORG,4
+new york,GPE,4
+confinity,ORG,4
+5 years,DATE,4
+north korea,GPE,4
+dorsey,PERSON,4
+silicon valley,LOC,4
+a million,CARDINAL,4
+3 month,DATE,4
+jack,PERSON,4
+musk didn',PERSON,4
+weekly,DATE,4
+tens of billions,MONEY,4
+thanksgiving,DATE,4
+tesla and space x,ORG,4
+jpg,PERSON,4
+a day,DATE,4
+obama,PERSON,4
+linkedin,GPE,4
+the last few weeks,DATE,4
+80 hours,TIME,4
+2 weeks,DATE,4
+idk,ORG,4
+13b,MONEY,4
+several years,DATE,4
+annually,DATE,4
+ten,CARDINAL,4
+overnight,TIME,4
+996,CARDINAL,4
+korea,GPE,4
+tens of billions of dollars,MONEY,4
+tesla’s,ORG,4
+zuckerberg,GPE,4
+ba,NORP,4
+west,LOC,4
+2016,DATE,4
+2008,DATE,4
+ukrainians,NORP,4
+bloomberg,PERSON,4
+wtf,ORG,4
+saturday,DATE,4
+canadian,NORP,4
+100k,ORG,4
+every day,DATE,4
+guy,PERSON,4
+steven king,PERSON,4
+a decade,DATE,4
+1b,MONEY,4
+asia,LOC,4
+twitter blue,PRODUCT,4
+elizabeth holmes,PERSON,4
+bezos,GPE,4
+mastodon,GPE,4
+bloomberg,ORG,4
+jordan peterson,PERSON,4
+babylon bee,PERSON,4
+vox populi,ORG,4
+fuck elon,PERSON,4
+dems,NORP,4
+chuck feeney,PERSON,4
+newscorp,ORG,4
+amber heard,ORG,4
+999,CARDINAL,4
+the week,DATE,4
+cybertruck,ORG,4
+mtg,ORG,4
+nick fuentes,PERSON,4
+6 weeks,DATE,4
+mdau,ORG,4
+asperger’s,ORG,3
+44,MONEY,3
+dick,PERSON,3
+4chan,CARDINAL,3
+apartheid,PERSON,3
+an hour,TIME,3
+moscow,GPE,3
+ccp,ORG,3
+40 billion,CARDINAL,3
+10 years,DATE,3
+bill,PERSON,3
+5 million,CARDINAL,3
+ben shapiro,PERSON,3
+cuban,NORP,3
+joe,PERSON,3
+wfp,ORG,3
+polish,NORP,3
+arab,NORP,3
+at least one,CARDINAL,3
+african american,NORP,3
+florida,GPE,3
+python,GPE,3
+1 week,DATE,3
+c-suite,NORP,3
+parag agrawal,PERSON,3
+cto,ORG,3
+wapo,ORG,3
+kardashians,NORP,3
+musk isn',PERSON,3
+the next few years,DATE,3
+75,CARDINAL,3
+another 40%,PERCENT,3
+netflix,ORG,3
+jane,PERSON,3
+board,ORG,3
+nyc,LOC,3
+god,PERSON,3
+2012,DATE,3
+](https,PERSON,3
+african,NORP,3
+wanna,PERSON,3
+gwynne shotwell,PERSON,3
+spacex,GPE,3
+multi billion dollar,MONEY,3
+south african,NORP,3
+couldn,PERSON,3
+2019,DATE,3
+lol,PERSON,3
+myspace,ORG,3
+french,NORP,3
+christmas,DATE,3
+january,DATE,3
+tesla,GPE,3
+27 years,DATE,3
+200k,MONEY,3
+bots,ORG,3
+the weekend,DATE,3
+the next few weeks,DATE,3
+5th,ORDINAL,3
+hbo,ORG,3
+13b,CARDINAL,3
+5%,PERCENT,3
+the republican party,ORG,3
+truth,GPE,3
+2nd,ORDINAL,3
+13bn,MONEY,3
+six months,DATE,3
+day-to-day,DATE,3
+elon musk's,PRODUCT,3
+errol musk,PERSON,3
+kimbal,PERSON,3
+com/2022/11/16/tech/elon-musk-email-ultimatum-twitter/index,ORG,3
+twitter,FAC,3
+twitter,WORK_OF_ART,3
+a couple years,DATE,3
+rupert murdoch,PERSON,3
+jason,PERSON,3
+13,CARDINAL,3
+every penny,MONEY,3
+wouldn,PERSON,3
+twitters,NORP,3
+the following year,DATE,3
+imo,ORG,3
+110,CARDINAL,3
+stem,PERSON,3
+msm,ORG,3
+only 2,CARDINAL,3
+12,CARDINAL,3
+300,CARDINAL,3
+mark zuckerberg,PERSON,3
+$6 billion,MONEY,3
+fox,ORG,3
+10,MONEY,3
+saudi arabian,NORP,3
+prince alwaleed bin talal,PERSON,3
+420,CARDINAL,3
+british,NORP,3
+warn,ORG,3
+five years,DATE,3
+fbi,ORG,3
+8%,PERCENT,3
+$5 million,MONEY,3
+holmes,PERSON,3
+kim kardashian,PERSON,3
+twitter musk,PERSON,3
+donald,PERSON,3
+pdf,ORG,3
+npr,ORG,3
+washington,GPE,3
+kim,PERSON,3
+$$$,MONEY,3
+twitter blue,PERSON,3
+day,DATE,3
+lone skum,PERSON,3
+yahoo,ORG,3
+1000,CARDINAL,3
+iirc,ORG,3
+900,MONEY,3
+99,CARDINAL,3
+the day to day,DATE,3
+starbucks,ORG,3
+58,CARDINAL,3
+03 percent,PERCENT,3
+ev,GPE,3
+mercedes,ORG,3
+$100 billion dollars,MONEY,3
+5x,CARDINAL,3
+gab,PERSON,3
+4chan,DATE,3
+monthly,DATE,3
+ny,ORG,3
+90 day,DATE,3
+trudeau,PERSON,3
+600,MONEY,3
+montana max,PERSON,2
+44bn,ORDINAL,2
+several thousand,CARDINAL,2
+solarcity,ORG,2
+chanel,ORG,2
+more than one,CARDINAL,2
+7 year old,DATE,2
+justin hammer,PERSON,2
+italy,GPE,2
+pentagon,ORG,2
+the early 2000's,DATE,2
+8 dollars,MONEY,2
+jeff,PERSON,2
+brazil,GPE,2
+bolsonaro,PERSON,2
+100 million,CARDINAL,2
+a few million,CARDINAL,2
+several months,DATE,2
+june,DATE,2
+martian,NORP,2
+$11 billion,MONEY,2
+hatespeech,NORP,2
+a bad week,DATE,2
+max,PERSON,2
+the new york post,ORG,2
+4 or 5 years ago,DATE,2
+20,MONEY,2
+hundreds of millions,CARDINAL,2
+the next 10-20 years,DATE,2
+artemis,ORG,2
+every week,DATE,2
+clinton,PERSON,2
+7 years,DATE,2
+poland,GPE,2
+about a week,DATE,2
+120 hours,TIME,2
+eric frohnhoefer,PERSON,2
+frohnhoefer,ORG,2
+monday night,TIME,2
+april,DATE,2
+1billion,MONEY,2
+700,CARDINAL,2
+binance,PERSON,2
+recent days,DATE,2
+ticketmaster,LOC,2
+nine,CARDINAL,2
+aws,ORG,2
+karen,PERSON,2
+the past few years,DATE,2
+free speech,PERSON,2
+420,MONEY,2
+edison,ORG,2
+15000,CARDINAL,2
+2000,CARDINAL,2
+4 years,DATE,2
+march,DATE,2
+muskrat,PERSON,2
+the white house,ORG,2
+ibm,ORG,2
+forbes,ORG,2
+delaware,GPE,2
+wednesday,DATE,2
+falcon 9's,ORG,2
+com/technology/archive/2022/09/elon-musk-texts-twitter-trial-jack-dorsey/671619/,ORG,2
+5pm,CARDINAL,2
+1a,CARDINAL,2
+france,GPE,2
+bob,PERSON,2
+1+1=4,CARDINAL,2
+two weeks ago,DATE,2
+eric,PERSON,2
+twelve,CARDINAL,2
+the first year,DATE,2
+kanye,PERSON,2
+lib,PERSON,2
+toronto,GPE,2
+the next 6 months,DATE,2
+asian,NORP,2
+qa,GPE,2
+kherson,PERSON,2
+"html
+https",ORG,2
+afrikaans,NORP,2
+schiffer,PERSON,2
+november 21,DATE,2
+a few hours,TIME,2
+welp,ORG,2
+whatsapp,ORG,2
+machiavelli,PERSON,2
+the past 10 years,DATE,2
+telsa,NORP,2
+hundred,CARDINAL,2
+2 million,CARDINAL,2
+mere weeks,DATE,2
+boeing,ORG,2
+soros,PERSON,2
+klaus schwab,ORG,2
+fuckin,PERSON,2
+roy,PERSON,2
+yahoo,PERSON,2
+eod,ORG,2
+16 hour,TIME,2
+13 million,CARDINAL,2
+5000,CARDINAL,2
+earlier this week,DATE,2
+android,GPE,2
+fyi,ORG,2
+the next decade,DATE,2
+10 billion,CARDINAL,2
+physics,GPE,2
+2x,CARDINAL,2
+com/technology/2022/11/17/twitter-musk-easing-rto-order/,ORG,2
+hows,ORG,2
+hahahaha,ORG,2
+leo,ORG,2
+otoh,ORG,2
+116 million,CARDINAL,2
+white,PERSON,2
+white,ORG,2
+5pm,ORDINAL,2
+midnight,TIME,2
+jacks,PERSON,2
+hyperloop,FAC,2
+48,CARDINAL,2
+69,CARDINAL,2
+twitter 2.0,FAC,2
+thai,NORP,2
+70%,PERCENT,2
+4 billion,CARDINAL,2
+christian,NORP,2
+early wednesday,DATE,2
+44billion,MONEY,2
+fuck elon musk,PERSON,2
+5d,CARDINAL,2
+isn,ORG,2
+solidarity,ORG,2
+a couple months,DATE,2
+the homer simpsons,FAC,2
+7%,PERCENT,2
+2 days,DATE,2
+48 hours,TIME,2
+com/markets/us/how-will-elon-musk-pay-twitter-2022-10-07/,ORG,2
+ill,ORG,2
+george clooney,PERSON,2
+australian,NORP,2
+conservatives,NORP,2
+space x,PRODUCT,2
+ussr,GPE,2
+nra,GPE,2
+irl,ORG,2
+ex-twitter,ORG,2
+china/asia,GPE,2
+uae,GPE,2
+ebay,ORG,2
+honda,ORG,2
+mclaren,PERSON,2
+25,CARDINAL,2
+the holidays,DATE,2
+usd,ORG,2
+libs,ORG,2
+long office hours,TIME,2
+9%,PERCENT,2
+neuralink,ORG,2
+eid,DATE,2
+surprised,PERSON,2
+16b,MONEY,2
+30b,MONEY,2
+yearly,DATE,2
+10 percent,PERCENT,2
+24 hour,TIME,2
+the boring company,ORG,2
+the minute,TIME,2
+martin eberhard,PERSON,2
+tesla motors,ORG,2
+mark,PERSON,2
+truss,PERSON,2
+smart,ORG,2
+16,MONEY,2
+theverge,PERSON,2
+a few weeks later,DATE,2
+about half,CARDINAL,2
+com/elon-musk-list-government-subsidies-tesla-billions-spacex-solarcity-2021-12,PERSON,2
+georgie,PERSON,2
+2014,DATE,2
+may,DATE,2
+boris johnson,PERSON,2
+winter,DATE,2
+seven,CARDINAL,2
+edward markey,PERSON,2
+lina khan,PERSON,2
+the federal trade commission,ORG,2
+commission,ORG,2
+dem,NORP,2
+twitter 2,LAW,2
+apartheid south africa,GPE,2
+4th,ORDINAL,2
+the last couple weeks,DATE,2
+new york times,ORG,2
+sepp blatter,PERSON,2
+the last 6 months,DATE,2
+couldn,ORG,2
+$40 billion,MONEY,2
+abc10,DATE,2
+65,CARDINAL,2
+soyuz,PRODUCT,2
+michael,PERSON,2
+jobs,PERSON,2
+this weekend,DATE,2
+only 5%,PERCENT,2
+qatar holdings,ORG,2
+this month,DATE,2
+sam bankman-fried,PERSON,2
+genuine,PERSON,2
+"july 2, 2020:",DATE,2
+elon’s,PRODUCT,2
+save elon’s company,WORK_OF_ART,2
+ryan,PERSON,2
+many billions,CARDINAL,2
+dozen,CARDINAL,2
+earlier this month,DATE,2
+zip2,WORK_OF_ART,2
+hilarious,GPE,2
+12 year old,DATE,2
+com/2022/11/06/tech/twitter-verification-delay-midterms/index,PERSON,2
+32,MONEY,2
+40,MONEY,2
+up to 10,CARDINAL,2
+mark cuban,PERSON,2
+george hotz,PERSON,2
+ticketmaster,PERSON,2
+gavin belson,PERSON,2
+hughes,ORG,2
+pm's,WORK_OF_ART,2
+metaverse,ORG,2
+30%,PERCENT,2
+a couple weeks,DATE,2
+fourth,ORDINAL,2
+the last ten years,DATE,2
+english,LANGUAGE,2
+powerpoint,ORG,2
+insta,PERSON,2
+paramedics,ORG,2
+david brent,PERSON,2
+sunday,DATE,2
+fucking musk,WORK_OF_ART,2
+cybertruck,PERSON,2
+day one,DATE,2
+only 20%,PERCENT,2
+a few dozen,CARDINAL,2
+11,DATE,2
+tommy wiseau,PERSON,2
+280,CARDINAL,2
+north korean,NORP,2
+about a year ago,DATE,2
+hungary,GPE,2
+t day,DATE,2
+marjorie taylor greene,PERSON,2
+ted cruz,PERSON,2
+musk,GPE,2
+$3 billion,MONEY,2
+$6 million,MONEY,2
+16 year,DATE,2
+the next day,DATE,2
+the model 3,LAW,2
+magaga,ORG,2
+andrew tate,PERSON,2
+only yesterday,DATE,2
+most some millions,CARDINAL,2
+latin,NORP,2
+007,CARDINAL,2
+white house,ORG,2
+jew,PERSON,2
+muslims,NORP,2
+wwii,EVENT,2
+western,NORP,2
+palestinian,NORP,2
+libs of tiktok,ORG,2
+senate,ORG,2
+transphobia,GPE,2
+flashgitz,PERSON,2
+the evening,TIME,2
+taliban,ORG,2
+$45 billion,MONEY,2
+/u/portarossa,PERSON,2
+15 years ago,DATE,2
+screw musk,PERSON,2
+tens of millions,CARDINAL,2
+1/10,CARDINAL,2
+the select committee’s,ORG,2
+february,DATE,2
+recent weeks,DATE,2
+stephen king,PERSON,2
+18,CARDINAL,2
+vox populi,PERSON,2
+vox,ORG,2
+imho,ORG,2
+one day ago,DATE,2
+elon musk](https:,WORK_OF_ART,2
+$300m,MONEY,2
+com/technology/musk-asks-twitter-users-if-they-want-an-edit-button-2022-04-05/,PERSON,2
+cms,ORG,2
+134 million,CARDINAL,2
+slovenia,GPE,2
+wp,ORG,2
+newsweek,ORG,2
+6%,PERCENT,2
+16 year olds,DATE,2
+mitsubishi ufj financial group,ORG,2
+com/2022/11/11/tech/musk-twitter-ftc/index,ORG,2
+next day,DATE,2
+afaik,ORG,2
+warren,PERSON,2
+snl,ORG,2
+fronts,PRODUCT,2
+the entire next year,DATE,2
+boycotts twitter,PERSON,2
+next year’s,DATE,2
+2020,CARDINAL,2
+lgbt,ORG,2
+8chan,MONEY,2
+7b,CARDINAL,2
+one year,DATE,2
+global link information network,WORK_OF_ART,2
+kimbal musk,PERSON,2
+greg kouri,PERSON,2
+palo alto,GPE,2
+kouri,GPE,2
+2-3,CARDINAL,2
+ethan klein,PERSON,2
+snopes,PERSON,2
+a quarter,CARDINAL,2
+ashlee vance's,PERSON,2
+quoting,GPE,2
+walton,PERSON,2
+88%,PERCENT,2
+tens of millions of dollars,MONEY,2
+nazis,NORP,2
+gdpr department,ORG,2
+gdpr,ORG,2
+billions over,MONEY,2
+just a year ago,DATE,2
+cia,ORG,2
+bremmer,PERSON,2
+tsla,ORG,2
+ui,ORG,2
+thomas edison,PERSON,2
+the past few weeks,DATE,2
+2004,DATE,2
+1.1%,PERCENT,2
+100b,PERSON,2
+classic,PRODUCT,2
+covid,PERSON,2
+100 billion,CARDINAL,2
+eberhard,PERSON,2
+mypillow,ORG,2
+facts,ORG,2
+telsa,PERSON,2
+wow,ORG,2
+the ev market,ORG,2
+2013,DATE,2
+0001,DATE,2
+$144 billion,MONEY,2
+41,CARDINAL,2
+citi,ORG,2
+vdv,ORG,2
+joy,PERSON,2
+parler,PERSON,2
+100 billion,MONEY,2
+a-12,PRODUCT,2
+at&t,ORG,2
+jeep,ORG,2
+54,CARDINAL,2
+isis,ORG,2
+vox dei,ORG,2
+advanced autopilot,ORG,2
+10b,CARDINAL,2
+13bil,CARDINAL,2
+heard,ORG,2
+xyz,ORG,2
+doge,PERSON,2
+brussels,GPE,2
+kathy,PERSON,2
+marc laidlaw,PERSON,2
+3 to 6 months,DATE,2
+venn,ORG,2
+pto,ORG,2
+more than 30 days,DATE,2
+several weeks,DATE,2
+the 90 days,DATE,2
+90nday,DATE,2
+another 30 days,DATE,2
+layoffs,PERSON,2
+around $10 million,MONEY,2
+over 50%,PERCENT,2
+pareto,PERSON,2
+irs,ORG,2
+my mom,WORK_OF_ART,1
+elmyra,PRODUCT,1
+maye,PRODUCT,1
+51 years-old,DATE,1
+elon musk show,WORK_OF_ART,1
+momma,PERSON,1
+the ages,DATE,1
+musk,WORK_OF_ART,1
+maye musk's,PERSON,1
+the musk war,EVENT,1
+fountains,PERSON,1
+elon's mom,WORK_OF_ART,1
+momma musk,PERSON,1
+just 2,CARDINAL,1
+white sa,ORG,1
+fuck elon musk’s mom,WORK_OF_ART,1
+mrs,PERSON,1
+maye musk,WORK_OF_ART,1
+25,DATE,1
+uk/tech/elon-musk-mother-hate-mean-twitter-b2223898.,ORG,1
+sorta,PERSON,1
+8/mo,MONEY,1
+eli lilly's,ORG,1
+pissed,GPE,1
+dandy musk,PERSON,1
+cause,ORG,1
+seth macfarlane,PERSON,1
+three year old,DATE,1
+cruella,ORG,1
+about $550k/day,MONEY,1
+about 200,CARDINAL,1
+between 10 and 20 years,CARDINAL,1
+just 14 months,DATE,1
+about 2,CARDINAL,1
+75 billion,CARDINAL,1
+about 6 months,DATE,1
+the elon musk show,WORK_OF_ART,1
+october 26th,DATE,1
+xrp,ORG,1
+another month,DATE,1
+7 months ago,DATE,1
+1 -2 hours,TIME,1
+stan,PERSON,1
+spacexs,ORG,1
+iron man or batman,PERSON,1
+companies,WORK_OF_ART,1
+legos,LOC,1
+the holiday weekend +,DATE,1
+dod,ORG,1
+marjorie greene,PERSON,1
+kevin mccarthy,PERSON,1
+"elon musk
+https",PERSON,1
+tucker carlson,ORG,1
+uk/news/world/americas/us-politics/tucker-carlson-ukraine-war-putin-biden-b2155498,GPE,1
+"html
+tucker carlson",PERSON,1
+"com/article/russia-ukraine-donald-trump-humanitarian-assistance-congress-c47a255738cd13576aa4d238ec076f4a
+mccarthy",PERSON,1
+"com/en/article/ake44z/elon-musk-vladimir-putin-ukraine
+https",ORG,1
+//amp,PRODUCT,1
+"html
+musk's spacex",ORG,1
+medvedev engage,PERSON,1
+odd twitter exchange,ORG,1
+fact,ORG,1
+com/2022/11/11/tech/twitter-chaos-musk/index,GPE,1
+com/articles/fake-gaming-blue-tick-accounts-are-making-twitter-even-more-chaotic/1100-6509079/,ORG,1
+\[3\]](https,ORG,1
+zeros,CARDINAL,1
+bingo,CARDINAL,1
+warren buffet,PERSON,1
+zucc,PERSON,1
+mckenzie scott,PERSON,1
+david rockefeller,PERSON,1
+george lucas,PERSON,1
+sam bankman,PERSON,1
+a hundred or,CARDINAL,1
+charity,ORG,1
+gates,ORG,1
+lgbtq,PERSON,1
+gay pride week,DATE,1
+1/6,CARDINAL,1
+a few billion,CARDINAL,1
+buffet,PERSON,1
+richest man',WORK_OF_ART,1
+another 5 years,DATE,1
+aka,ORG,1
+major,ORG,1
+bezos gates,PERSON,1
+killing,GPE,1
+a half billion dollar,MONEY,1
+only about half,CARDINAL,1
+401ks,PERSON,1
+chouinard,PERSON,1
+nitpicky,GPE,1
+chouinard,GPE,1
+zuck chuck,PERSON,1
+chuck musk,PERSON,1
+our few hundred,CARDINAL,1
+forbes](https://www,ORG,1
+"dickcumcoin
+beware elon musks",ORG,1
+about $280 billion,MONEY,1
+the next 10 years,DATE,1
+$236 billion,MONEY,1
+44,CARDINAL,1
+18%,PERCENT,1
+just under $2 billion,MONEY,1
+just $2,MONEY,1
+22 years,DATE,1
+the same week,DATE,1
+jay leno,PERSON,1
+jay,PERSON,1
+twitch turbo,PERSON,1
+youtube red.,PERSON,1
+about 12%,PERCENT,1
+the present day,DATE,1
+"their ""job creators",ORG,1
+8 billion,CARDINAL,1
+2 weeks ago,DATE,1
+2 to 4 %,PERCENT,1
+warren buffett,PERSON,1
+500-2000,CARDINAL,1
+10,DATE,1
+phillip,PERSON,1
+eron musk,PERSON,1
+lgbt,PERSON,1
+huffpost,PRODUCT,1
+jp,ORG,1
+the hundreds of billions of dollars,MONEY,1
+realistically,ORG,1
+lesbian,NORP,1
+40,DATE,1
+000 percent,PERCENT,1
+36 billion,CARDINAL,1
+elon time,PRODUCT,1
+hyperloop,PRODUCT,1
+hyperloop,PERSON,1
+spaceex,ORG,1
+ca,PERSON,1
+nevada,GPE,1
+present day,DATE,1
+the triangle shirtwaist factory,ORG,1
+pre-nlra days,DATE,1
+33 billion,CARDINAL,1
+$33 billion,MONEY,1
+owner,ORG,1
+good,ORG,1
+melon musk,PERSON,1
+"html
+so",ORG,1
+op,PERSON,1
+40bn,MONEY,1
+felon musk,PERSON,1
+about 70km,QUANTITY,1
+100kg,QUANTITY,1
+160k,PRODUCT,1
+2500km,QUANTITY,1
+50kg,QUANTITY,1
+about 20k,DATE,1
+falcon 9,ORG,1
+spanish,NORP,1
+flu - covid,ORG,1
+ch\*nese,NORP,1
+any minute,TIME,1
+cinci,ORG,1
+kanye west,PERSON,1
+elon trump,PRODUCT,1
+would-be,ORG,1
+mg,ORG,1
+made,NORP,1
+pepperidge,ORG,1
+nine months,DATE,1
+another three weeks,DATE,1
+taco bell,ORG,1
+a year or so,DATE,1
+wlon,PRODUCT,1
+west,PERSON,1
+usnews.com/news/business/articles/2022-11-14/elon-musk-pay-package-at-tesla-challenged-in-court](https,ORG,1
+usnews,ORG,1
+spectrum (time warner) cable,ORG,1
+android,LOC,1
+2016 elon,WORK_OF_ART,1
+$44 billion dollars,MONEY,1
+6billion,MONEY,1
+personally,ORG,1
+world power,ORG,1
+nyc,ORG,1
+russian propaganda,PERSON,1
+around 24hrs ago,DATE,1
+s300,CARDINAL,1
+300km,QUANTITY,1
+5 days,DATE,1
+nearly a decade,DATE,1
+the next one,DATE,1
+kanye,ORG,1
+dunning-krueger,PRODUCT,1
+ev,PERSON,1
+10 hour day,TIME,1
+com/elon-musk-twitter-verify-richard-spencer-jason-kessler-1849773076/amp,ORG,1
+amp_gsa=1&amp_js_v=a9&usqp=mq331aqkkafqarabiiacaw%3d%3d#amp_tf=from%20%251%24s&aoh=16686076761657&referrer=https%3a%2f%2fwww,GPE,1
+musk didn,PERSON,1
+joker,NORP,1
+the dark knight,LOC,1
+kohler,ORG,1
+100-hour week,DATE,1
++ asperger’s,ORG,1
+chelsea,ORG,1
+musk penitentiary,PERSON,1
+facebook/meta,PERSON,1
+the mid $,ORG,1
+40s,MONEY,1
+only a few months,DATE,1
+the volvo ev,ORG,1
+almost every year,DATE,1
+section 230,LAW,1
+batman,PERSON,1
+tweeted,ORG,1
+g20,PRODUCT,1
+bali,GPE,1
+$7 billion,MONEY,1
+another 10%,PERCENT,1
+the past 24 hours,TIME,1
+elon musk twitter,PRODUCT,1
+software,ORG,1
+500k,PRODUCT,1
+a couple days later,DATE,1
+shahan,PERSON,1
+slightly more than half,CARDINAL,1
+harry potter,PERSON,1
+cape canaveral,GPE,1
+"august 7, 2018",DATE,1
+38 billion,MONEY,1
+years musk,DATE,1
+im,PERSON,1
+21 century,DATE,1
+60hrs/week,DATE,1
+ryan mac,PERSON,1
+england,GPE,1
+30 to 40 years,DATE,1
+pattaya beach,GPE,1
+chiang rai,PERSON,1
+about 12 years old,DATE,1
+many years ago,DATE,1
+internal,ORG,1
+frank reynolds,PERSON,1
+the warthog,WORK_OF_ART,1
+always sunny,ORG,1
+coming months,DATE,1
+$44 bil,MONEY,1
+156,CARDINAL,1
+modern day,DATE,1
+san,ORG,1
+the next five minutes,DATE,1
+cpu,ORG,1
+130,MONEY,1
+saturdays,DATE,1
+delusionally,PERSON,1
+week,DATE,1
+billionarie,LOC,1
+working long hours,TIME,1
+com/2019/12/03/media/elon-musk-testifies/index,PERSON,1
+the middle of the day,DATE,1
+an autistic 14yr old,DATE,1
+october,DATE,1
+18 months earlier,DATE,1
+november 9,DATE,1
+trashlas,GPE,1
+scrooge-mcduck-esque,CARDINAL,1
+glass,PERSON,1
+$400,MONEY,1
+$400m,MONEY,1
+12 hours/7 days,DATE,1
+pathetic,ORG,1
+multi year,DATE,1
+the performative hours,TIME,1
+all those hours,TIME,1
+50 or,CARDINAL,1
+60hrs,CARDINAL,1
+the middle of november,DATE,1
+between december and june of next year,DATE,1
+three to $8 billion,MONEY,1
+owner/c-suite,NORP,1
+the gates foundation,ORG,1
+mark cuban's,PERSON,1
+$56 billion,MONEY,1
+tesla inc,ORG,1
+cotton,PERSON,1
+40bn+,MONEY,1
+fifa world cup,EVENT,1
+elon’s,ORG,1
+doubt,PERSON,1
+writing,PERSON,1
+next month,DATE,1
+article](https,ORG,1
+elon musk’s texts shatter the myth of the tech genius,WORK_OF_ART,1
+about 8 billion,MONEY,1
+about 60%,PERCENT,1
+roi,PERSON,1
+half a decade ago,DATE,1
+tech,NORP,1
+15th century,DATE,1
+2 second,CARDINAL,1
+him—which,PERSON,1
+a day later,DATE,1
+8/blue,MONEY,1
+checkmark,GPE,1
+the tesla board of directors,ORG,1
+55b,MONEY,1
+11/12,CARDINAL,1
+about $55b,MONEY,1
+22%,PERCENT,1
+28%,PERCENT,1
+tornetta,ORG,1
+just eight,CARDINAL,1
+"the boring co, neuralink",ORG,1
+todd maron,PERSON,1
+at least the next decade,DATE,1
+2 second,QUANTITY,1
+compounded,GPE,1
+berlin,GPE,1
+3 seconds,TIME,1
+buy twitter,PERSON,1
+99.98%,PERCENT,1
+the past two weeks,DATE,1
+the same day,DATE,1
+bergheim,GPE,1
+some months ago,DATE,1
+around 2018,DATE,1
+rick,PERSON,1
+black americans,NORP,1
+american…a,GPE,1
+attendants](https,EVENT,1
+indiatoday,DATE,1
+in/world/story/elon-musk-air-hostess-sexually-harassed-spacex-paid-off-silent-1951781-2022-05-20,PERSON,1
+so many millions,CARDINAL,1
+krogers,ORG,1
+richard tornetta,PERSON,1
+just nine,CARDINAL,1
+easy-to-reach,ORG,1
+populism,NORP,1
+peter theil,PERSON,1
+jovan musk,PERSON,1
+70,CARDINAL,1
+november,DATE,1
+cox and sinclair,ORG,1
+about 2 weeks,DATE,1
+trump steaks,ORG,1
+trump university,ORG,1
+atlantic city,GPE,1
+joffrey baratheon,ORG,1
+gwyenne,PERSON,1
+tom mueller,PERSON,1
+kevin watson,PERSON,1
+dragon,PERSON,1
+garriet reisman,PERSON,1
+eric berger,PERSON,1
+the financial times,ORG,1
+facebook/built,ORG,1
+a bad year,DATE,1
+ticketmaster,ORG,1
+employee](https,ORG,1
+half a decade,DATE,1
+ticketmaster,PRODUCT,1
+about 15-20%,PERCENT,1
+the other 50%,PERCENT,1
+the board of directors,ORG,1
+elon 'phony stark',ORG,1
+elon and elon,ORG,1
+the national labor relations act,ORG,1
+the next two months,DATE,1
+holland-thielen’s,ORG,1
+july,DATE,1
+august,DATE,1
+the open letter,WORK_OF_ART,1
+6-7 million,CARDINAL,1
+charlize theron’s,PRODUCT,1
+rassie,PERSON,1
+charlize theron,PERSON,1
+a good week,DATE,1
+federal trade commission,ORG,1
+3000,CARDINAL,1
+1 day,DATE,1
+pikachu,GPE,1
+news flash,WORK_OF_ART,1
+yilong ma,PERSON,1
+business management 101,ORG,1
+over 30 years,DATE,1
+every night,TIME,1
+the very first day,DATE,1
+hahahahahahahahahahahaha,ORG,1
+moon,PERSON,1
+atlas shrugged*,WORK_OF_ART,1
+lehman brothers,ORG,1
+mike,PERSON,1
+less than a month,DATE,1
+less than a month ago,DATE,1
+80+ hour weeks,TIME,1
+tay,PERSON,1
+less than 24 hours,TIME,1
+saudia arabia,GPE,1
+pakistan,GPE,1
+more than half,CARDINAL,1
+100s,PERSON,1
+kingdom of saudi arabia,GPE,1
+musk sharted,PERSON,1
+accidentally,PERSON,1
+at least 2,CARDINAL,1
+the blue checkmarks,ORG,1
+names,PRODUCT,1
+more than 70 hours,TIME,1
+iow,ORG,1
+70 weeks,DATE,1
+zoë schiffer,PERSON,1
+zuckerberg(he,GPE,1
+zero to 250 billion,MONEY,1
+com/elonmusk/status/1593415171149791232,PERSON,1
+netflix limited series,ORG,1
+singapore](https,ORG,1
+channelnewsasia,PERSON,1
+half a month,DATE,1
+embracer group,ORG,1
+onoma,ORG,1
+brewster,ORG,1
+millions,PRODUCT,1
+2000,DATE,1
+the 20%,PERCENT,1
+787,CARDINAL,1
+max,ORG,1
+lpt,ORG,1
+elites,ORG,1
+43b,ORG,1
+saudis/chinese,NORP,1
+the cat 5,LAW,1
+ten years ago,DATE,1
+90 hours,TIME,1
+suck,PERSON,1
+the tesla bod,ORG,1
+//cis,GPE,1
+org/north/elon-musk-once-h1b-himself-lays-hundreds-twitter-h1bs,PERSON,1
+twitter h-1bs,PERSON,1
+173,MONEY,1
+742,CARDINAL,1
+myvisajobs,PERSON,1
+devil,PERSON,1
+facebook / meta,ORG,1
+70+ hours,TIME,1
+colon musk,PRODUCT,1
+fired by elon musk,WORK_OF_ART,1
+2011,DATE,1
+new twitter,GPE,1
+accenture,ORG,1
+8 hour,TIME,1
+more than 3 months,DATE,1
+development of twitter,ORG,1
+ps,ORG,1
+the ray kroc,ORG,1
+minsk,GPE,1
+pro-russia,PERSON,1
+normal,ORG,1
+30b,CARDINAL,1
+"html
+no, asking",ORG,1
+70h,DATE,1
+psycho pass,WORK_OF_ART,1
+"blue
+starbucks",ORG,1
+about 3-7 years ago,DATE,1
+mayne,PERSON,1
+bezo,PERSON,1
+captain kirk,PERSON,1
+eric musk,PERSON,1
+elon tusk,PERSON,1
+inb4,ORG,1
+fediverse,PERSON,1
+the blue bird,ORG,1
+him](https://fortune,PERSON,1
+"html
+“",ORG,1
+hours,WORK_OF_ART,1
+deadline,PERSON,1
+a dozen or,CARDINAL,1
+at least 3 pounds,CARDINAL,1
+50 million,CARDINAL,1
+between 30k,DATE,1
+150k,ORG,1
+the year before,DATE,1
+$500 million,MONEY,1
+hulu,LOC,1
+the last 3 months,DATE,1
+all your years,DATE,1
+90 hour weeks,TIME,1
+30s/40s,CARDINAL,1
+any%,ORG,1
+twitter staff,WORK_OF_ART,1
+nytimes,ORG,1
+t=p9dw6nurny__sb2hjxfoeq&s=19(someone,ORG,1
+wants,PRODUCT,1
+"elon musk,",WORK_OF_ART,1
+200k/year,MONEY,1
+jack welch,PERSON,1
+two-day,DATE,1
+#the elon musk guide,MONEY,1
+less than a year,DATE,1
+90%+,CARDINAL,1
+a consortium of banks,ORG,1
+an additional billion dollars,MONEY,1
+over 10y,DATE,1
+several hundred an hour,TIME,1
+elon musk 🍎✏,PRODUCT,1
+com/szhxj1g,ORDINAL,1
+png,ORG,1
+only $8,MONEY,1
+tesla don',ORG,1
+6d,CARDINAL,1
+$54 billion,MONEY,1
+6 months to a year from now,DATE,1
+less](https,ORG,1
+$8 billion,MONEY,1
+economics,ORG,1
+joffrey musk,PERSON,1
+wiki social,ORG,1
+2012-13,CARDINAL,1
+scruffy,ORG,1
+tanking twitter,PERSON,1
+lex friedman,PERSON,1
+mush,PERSON,1
+100 years,DATE,1
+$250 million,MONEY,1
+com/elon-musk-changes-twitters-remote-work-rules-again-225801061,GPE,1
+44b(eventually,CARDINAL,1
+social media,ORG,1
+guys,PERSON,1
+com/poqxte3,ORG,1
+0/share,MONEY,1
+ostrich,PERSON,1
+3 month's,DATE,1
+spacex rockets,PERSON,1
+starlink satellites,GPE,1
+working at spacex,ORG,1
+washington post,ORG,1
+elon musk enters rehab,WORK_OF_ART,1
+jack dorsey's,PERSON,1
+tony,PERSON,1
+know-it-all,GPE,1
+bolivian,NORP,1
+several years ago,DATE,1
+stable genius musk,WORK_OF_ART,1
+blind,PERSON,1
+chapter 11,LAW,1
+whites,GPE,1
+a couple hours ago,TIME,1
+zoe schiffer,PERSON,1
+thingie](https,ORG,1
+3700,CARDINAL,1
+3 hours later,TIME,1
+nov 21st,DATE,1
+jack daniels,PERSON,1
+3700,DATE,1
+as many as,CARDINAL,1
+27b,MONEY,1
+5b,MONEY,1
+the qatar sovereign wealth fund,ORG,1
+james bond,PERSON,1
+12bn,ORDINAL,1
+about 60c,CARDINAL,1
+193 billion,CARDINAL,1
+maserati,PRODUCT,1
+a quarter mile,QUANTITY,1
+the chinese communist party,ORG,1
+lese,NORP,1
+the space x / blue origin,FAC,1
+the morning,TIME,1
+the twitter engineers and programmers onlyfans,WORK_OF_ART,1
+44bil,MONEY,1
+zero,EVENT,1
+9000,CARDINAL,1
+liz truss,PERSON,1
+pm,TIME,1
+44 days,DATE,1
+21,CARDINAL,1
+eats twitter,PERSON,1
+christen bale,ORG,1
+idris elba,PERSON,1
+do,ORG,1
+20 pm gafaah,TIME,1
+tangerine palpatine,ORG,1
+almost 25%,PERCENT,1
+200b,PRODUCT,1
+three month's,DATE,1
+twitter 1.0,FAC,1
+closing time,WORK_OF_ART,1
+merriam-webster,DATE,1
+mcdonald’s,ORG,1
+dgaf,PERSON,1
+nah spacex,PERSON,1
+astra,ORG,1
+relativity and firefly,ORG,1
+their day to day,DATE,1
+1 or 2 hours,TIME,1
+jim carrey,PERSON,1
+jeff daniels,PERSON,1
+occam,ORG,1
+anyone,ORG,1
+ivf,ORG,1
+surrogates](https,ORG,1
+the wall street journal,ORG,1
+the washington post,ORG,1
+wsj,ORG,1
+osint,ORG,1
+55 billion,MONEY,1
+scrooge,PERSON,1
+pennie,PERSON,1
+google’s jigsaw,ORG,1
+hindus,NORP,1
+an estimated 500,CARDINAL,1
+twitter inc.,ORG,1
+leicester,GPE,1
+late august,DATE,1
+early september,DATE,1
+jobs,ORG,1
+woz,PERSON,1
+screw musk,DATE,1
+screw zuckerberg,PERSON,1
+screw bezos,PERSON,1
+last $200,MONEY,1
+imgur,ORG,1
+the hours,TIME,1
+atlas shrugged*,PERSON,1
+the 50s,DATE,1
+john galt,PERSON,1
+twiterrer,LOC,1
+plot,ORG,1
+manhattan,GPE,1
+the 1980s and,DATE,1
+1990s,DATE,1
+dejoy,PERSON,1
+elon musk ✓,WORK_OF_ART,1
+com/elonmusk/status/1593415171149791232,ORG,1
+truth social's,ORG,1
+twitter](https://www,ORG,1
+13bn,DATE,1
+29,DATE,1
+31bn,MONEY,1
+70,DATE,1
+solar city,FAC,1
+500mm,MONEY,1
+larry ellis,PERSON,1
+some $14bn,MONEY,1
+tbh,ORG,1
+mooch,WORK_OF_ART,1
+500million,CARDINAL,1
+richest man on earth,PRODUCT,1
+egotistic,NORP,1
+16b,CARDINAL,1
+44m,PRODUCT,1
+hype,ORG,1
+watch &,ORG,1
+com/api/v1/images/stellar/prod/221026151430-elon-musk-entering-twitter-hq-1026-screenshot.jpg,PERSON,1
+elon 🫶🏼,PRODUCT,1
+a few hundred thousand,CARDINAL,1
+54k,MONEY,1
+20 bucks,MONEY,1
+edgelord elon,WORK_OF_ART,1
+"com/culture/culture-features/tesla-sexual-harassment-lawsuit-investigation-elon-musk-1234590697/
+https",PERSON,1
+anakin skywalker,PERSON,1
+"html
+musk",PERSON,1
+about $13 billion,MONEY,1
+cocaine,ORG,1
+com/2020-02/svbftvto_elon-musk-elon-musk-vampire_295x200_26_february_20,ORG,1
+buy 27%,PERCENT,1
+whoops,ORG,1
+announce trump,ORG,1
+launch,NORP,1
+all day every day,DATE,1
+parlour,PERSON,1
+faang,ORG,1
+125k,PERSON,1
+125k,PRODUCT,1
+bioshock,ORG,1
+severance,ORG,1
+450 million,CARDINAL,1
+weeks later,DATE,1
+scaramucci,NORP,1
+mooch,LOC,1
+11 days,DATE,1
+truss,PRODUCT,1
+45 days,DATE,1
+130s,PRODUCT,1
+richard branson,PERSON,1
+rittenhouse,ORG,1
+rogan,GPE,1
+cruz,GPE,1
+hawley,ORG,1
+gaetz,GPE,1
+3-4,CARDINAL,1
+final day,DATE,1
+kiss,WORK_OF_ART,1
+threats/campaign-promises/confessions/etc,CARDINAL,1
+requblican,PERSON,1
+gqp,ORG,1
+smart technical ways,ORG,1
+$50 billion+,MONEY,1
+under 20%,PERCENT,1
+james murdoch,PERSON,1
+tonight,TIME,1
+a weekend,DATE,1
+minecraft,PRODUCT,1
+ian miles cheong,PERSON,1
+the last several days,DATE,1
+bluesky,ORG,1
+jack shit,PERSON,1
+the working hours,TIME,1
+would elon musk,WORK_OF_ART,1
+here](https:,GPE,1
+our day to day,DATE,1
+the elon musk,WORK_OF_ART,1
+joffrey,PERSON,1
+200bn+,MONEY,1
+authoritians,NORP,1
+founder of tesla,ORG,1
+elongone muskow,PERSON,1
+0 day,DATE,1
+the winter of 1999,DATE,1
+1000 hours,TIME,1
+tan,PERSON,1
+ferrari,NORP,1
+15 year old,DATE,1
+cr-v,PRODUCT,1
+┻━┻,PERSON,1
+84 hours,TIME,1
+without billions of dollars,MONEY,1
+q2 2022,CARDINAL,1
+tens (hundreds,CARDINAL,1
+the past 6 years,DATE,1
+15,DATE,1
+harry,PERSON,1
+mcain,PERSON,1
+kerry,PERSON,1
+the good place,WORK_OF_ART,1
+totally,GPE,1
+bortles,GPE,1
+giant,ORG,1
+bust,PERSON,1
+3 month’s,DATE,1
+the dot com boom,ORG,1
+about $20 billion,MONEY,1
+alleged,ORG,1
+paul heyman,PERSON,1
+every minute,TIME,1
+standford review,ORG,1
+russ hanneman,PERSON,1
+100 dollar,MONEY,1
+bs,PERSON,1
+days,DATE,1
+days,ORG,1
+excel,PRODUCT,1
+"twatter
+musk",ORG,1
+hail mary,PERSON,1
+bad man,PRODUCT,1
+54,DATE,1
+20/share](https,CARDINAL,1
+10-20 years,DATE,1
+about a year,DATE,1
+8 months,DATE,1
+$200 million,MONEY,1
+the last 2.5 weeks,DATE,1
+kinda shitty,ORG,1
+doge,ORG,1
+elon musk™️,PERSON,1
+elon musks,PRODUCT,1
+führer,PERSON,1
+gehorsam,PERSON,1
+jederzeit für diesen,PERSON,1
+leben,PERSON,1
+little rock,GPE,1
+tunnel bear,ORG,1
+zuckertron,ORG,1
+tf,ORG,1
+verge,WORK_OF_ART,1
+twitter no,WORK_OF_ART,1
+failing,ORG,1
+ca,ORG,1
+twitter 2.0,ORG,1
+$20 billion,MONEY,1
+ic,PERSON,1
+$22 billion,MONEY,1
+about a billion dollars,MONEY,1
+115 $100,MONEY,1
+serfs,PERSON,1
+employees,ORG,1
+tech inc ltd,ORG,1
+the day they turn,DATE,1
+4 days/week,DATE,1
+tuesdays,DATE,1
+the geneva convention,LAW,1
+fridays,DATE,1
+thanos,NORP,1
+three-month,CARDINAL,1
+another week,DATE,1
+muskrat,ORG,1
+5-9,CARDINAL,1
+bros crypto,PERSON,1
+the next 6 month,DATE,1
+july 2003,DATE,1
+nikola tesla,PERSON,1
+february 2004,DATE,1
+android,ORG,1
+the last few days,DATE,1
+stanford university,ORG,1
+less than two months,DATE,1
+5 minutes,TIME,1
+musk lied](https:,PERSON,1
+5ct,ORDINAL,1
+this now,DATE,1
+econ,GPE,1
+zilch,GPE,1
+about zero,CARDINAL,1
+space karen,PERSON,1
+mr burns,PERSON,1
+arasaka,PERSON,1
+a month from now,DATE,1
+several hundred million,CARDINAL,1
+harvey weinstein,PERSON,1
+old money](https://www,WORK_OF_ART,1
+harder](https,ORG,1
+a day or years,DATE,1
+gonna happen,PERSON,1
+working hours,TIME,1
+shockedpikachu,GPE,1
+the years,DATE,1
+muskrats,PERSON,1
+esther crawford,PERSON,1
+16 seconds later,TIME,1
+official,WORK_OF_ART,1
+officialdom,ORG,1
+the last decade,DATE,1
+the verge article](https,WORK_OF_ART,1
+2900,CARDINAL,1
+a few hundred,CARDINAL,1
+disney-pixar,PRODUCT,1
+ya manchild,PERSON,1
+hahahha,PERSON,1
+the past 2 years,DATE,1
+a long weekend,DATE,1
+the app store for free,WORK_OF_ART,1
+ba,ORG,1
+the past 5+ years,DATE,1
+olympics,EVENT,1
+the qatar world cup,EVENT,1
+springtime for hitler,WORK_OF_ART,1
+springtime for hitler worshipers because he fired the moderation staff,WORK_OF_ART,1
+twitter afik,PERSON,1
+one billion dollars,MONEY,1
+55,CARDINAL,1
+7000,CARDINAL,1
+around 50 million,MONEY,1
+bascially tesla,PERSON,1
+the first week or so,DATE,1
+about 1/4,CARDINAL,1
+less than 1 month,DATE,1
+com/2022/02/24/former-employee-sues-tesla-over-safety-non-compliance-discrimination/,ORG,1
+thesouthafrican,NORP,1
+the early 20th,DATE,1
+2014](https:,DATE,1
+general](https,GPE,1
+eu/delegations/china/disinformation-about-russias-invasion-ukraine-debunking-seven-myths-spread-russia_en,ORG,1
+prague,GPE,1
+spring,DATE,1
+ssc-8,ORG,1
+ss-25,PRODUCT,1
+com/articles/trump-moves-closer-to-ending-another-post-cold-war-treaty-11572177600,ORG,1
+september,DATE,1
+politico,ORG,1
+the hague,GPE,1
+netherlands,GPE,1
+dutch,NORP,1
+87%,PERCENT,1
+peace](https,ORG,1
+lavrov,ORG,1
+donbas,PERSON,1
+com/2022/04/11/europe/austria-nehammer-putin-meeting-russia-ukraine-intl/index,ORG,1
+the united nations](https:,ORG,1
+defense austin,ORG,1
+donbas,GPE,1
+henry kissinger,PERSON,1
+again](https,ORG,1
+com/articles/as-ukraine-retakes-kherson-u-s-looks-to-diplomacy-before-winter-slows-momentum-11668345883,ORG,1
+mod=searchresults_pos1&page=1,ORG,1
+tens of thousands,CARDINAL,1
+scott,ORG,1
+karving,PERSON,1
+oslo,ORG,1
+norwegian,NORP,1
+the høt hands of an oslo dentist,WORK_OF_ART,1
+fillings of passion,WORK_OF_ART,1
+the huge mølars of horst nordfink,WORK_OF_ART,1
+three years,DATE,1
+the past 4 years,DATE,1
+only 70,CARDINAL,1
+about 20,CARDINAL,1
+about 20 billion,MONEY,1
+around 200 billion dollars,MONEY,1
+hardcore,PERSON,1
+game devs,WORK_OF_ART,1
+the last 10 years,DATE,1
+the 8 years,DATE,1
+businessofapps,GPE,1
+com/data/twitter-statistics/,FAC,1
+605k/day,CARDINAL,1
+the last quarter,DATE,1
+the first two quarters of this year,DATE,1
+xd,ORG,1
+10/12,CARDINAL,1
+6 days,DATE,1
+anywho,ORG,1
+myspace,GPE,1
+digg,PERSON,1
+100/second,CARDINAL,1
+13 years,DATE,1
+11 months,DATE,1
+10 days,DATE,1
+sepp,ORG,1
+that's world cup,WORK_OF_ART,1
+bwahahahahahahahahaaa,PRODUCT,1
+musk,PRODUCT,1
+com/2021/02/03/business/elon-musk-tesla-quality-problems/index,PERSON,1
+"html
+just",ORG,1
+30 seconds,TIME,1
+the 2 weeks,DATE,1
+comment](https://www.,DATE,1
+roughly 25%,PERCENT,1
+alvin toffler,PERSON,1
+warcraft,ORG,1
+craigslist,NORP,1
+almost zero,CARDINAL,1
+$23 billion,MONEY,1
+tesla - which,ORG,1
+legoland,GPE,1
+fuck-up,PERSON,1
+musks ukraine,ORG,1
+several billions,CARDINAL,1
+23k,DATE,1
+about 70k,DATE,1
+year,DATE,1
+about four minutes,TIME,1
+the whole year,DATE,1
+four minutes,TIME,1
+tick,PERSON,1
+bee,ORG,1
+blue origin,ORG,1
+70-80 hour weeks,TIME,1
+6-7 days,DATE,1
+screamed,PERSON,1
+10/10,CARDINAL,1
+arrested development,ORG,1
+80,CARDINAL,1
+ofcourse,PERSON,1
+anti-twitter,ORG,1
+7500,DATE,1
+parag agrawal,ORG,1
+only three years,DATE,1
+twenty one years,DATE,1
+160k - 250k,PRODUCT,1
+35-45 hour weeks,TIME,1
+3 hours,TIME,1
+70 hours,TIME,1
+50k,MONEY,1
+300b,PRODUCT,1
+the french right,ORG,1
+the next  decade,DATE,1
+around 15th,DATE,1
+new…reddit,CARDINAL,1
+tweet,NORP,1
+ugh,ORG,1
+nfl,ORG,1
+nba,ORG,1
+8 days,DATE,1
+numbers,ORG,1
+000s,PRODUCT,1
+ma,PERSON,1
+the long  20th century,DATE,1
+the new century,DATE,1
+so 20th century,DATE,1
+adam curtis,PERSON,1
+the soviet union,GPE,1
+the office,WORK_OF_ART,1
+dwight,PERSON,1
+parkour,ORG,1
+hardcore,ORG,1
+twitter 2,ORG,1
+brian peppers,PERSON,1
+last month,DATE,1
+red sox,ORG,1
+sox,ORG,1
+10+ years,DATE,1
+the next months,DATE,1
+1970,DATE,1
+about 5000,CARDINAL,1
+six months ago,DATE,1
+watching elon,WORK_OF_ART,1
+schedule,ORG,1
+musk hundreds of millions,CARDINAL,1
+$32 billion,MONEY,1
+people doesn',ORG,1
+chapter 7,LAW,1
+need,ORG,1
+people](https,CARDINAL,1
+com/is-elon-musk-just-a-sales-guy-9d3eb7a1b49c,ORG,1
+have a plan,WORK_OF_ART,1
+https,ORG,1
+40b+,MONEY,1
+douglas adams',PERSON,1
+douglas adams,PERSON,1
+hitchhiker,ORG,1
+2nd-year,CARDINAL,1
+control twitter,PERSON,1
+idgaf,GPE,1
+com/2022/11/17/technology/twitter-elon-musk-ftc,DATE,1
+the stanford university of calefornia,ORG,1
+utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button,PERSON,1
+elon musk’s,PRODUCT,1
+pennsylvania,GPE,1
+1 hour,TIME,1
+tokyo,GPE,1
+the next week,DATE,1
+kicks spacex,PERSON,1
+sarah silverman,PERSON,1
+the next 50 years,DATE,1
+apatheid,PERSON,1
+cnbctv18,PERSON,1
+htm,PERSON,1
+3 percent,PERCENT,1
+two of the years,DATE,1
+years upon years,DATE,1
+youre,ORG,1
+monty python,LOC,1
+com/elon-musk-name-shame-advertisers-who-pull-budget-2022-11,ORG,1
+$20 million,MONEY,1
++$40 billion,MONEY,1
+"lol, echo chamber",ORG,1
+ivermectin,PERSON,1
+the winter,DATE,1
+400,MONEY,1
+the 3 months,DATE,1
+dm,ORG,1
+15 years,DATE,1
+21,MONEY,1
+carly fiorina,ORG,1
+$950 million,MONEY,1
+$14 billion,MONEY,1
+370%,PERCENT,1
+$650 billion,MONEY,1
+178,MONEY,1
+850%,PERCENT,1
+poe,ORG,1
+south park,LOC,1
+around 7000,CARDINAL,1
+1000 or,CARDINAL,1
+10s of billions of dollars,MONEY,1
+the last ~6 months,DATE,1
+the guinness book of world records,LAW,1
+leo laporte,PERSON,1
+tech,GPE,1
+20k,MONEY,1
+$22 million,MONEY,1
+$176 million,MONEY,1
+dagmar dolby,PERSON,1
+dolby laboratories,ORG,1
+oprah,PERSON,1
+queens ny,GPE,1
+practice,ORG,1
+around two months,DATE,1
+less than 100,CARDINAL,1
+51,DATE,1
+p&l,ORG,1
+governemnt,NORP,1
+com/researcher-says-elon-musk-owning-twitter-data-incompatible-with-democracy-2022-4,ORG,1
+"com/researcher-says-elon-musk-owning-twitter-data-incompatible-with-democracy-2022-4
+",ORG,1
+elon musk wants twitter for the big data,WORK_OF_ART,1
+about 250,CARDINAL,1
+roughly a quarter,CARDINAL,1
+5 year old,DATE,1
+i few months ago,DATE,1
+\[on friday,DATE,1
+night,TIME,1
+atlanta,GPE,1
+miami,GPE,1
+try,ORG,1
+tsa,ORG,1
+playboy,ORG,1
+the joseph ii,PRODUCT,1
+mozart,PERSON,1
+com/news/technology-63675849,ORG,1
+92%,PERCENT,1
+dire&quot,PERSON,1
+com/r/autotldr/comments/yyttk7/is_this_really_the_end_of_twitter_bbc_news/,ORG,1
+version 2.02,LAW,1
+propublica,ORG,1
+about 13%,PERCENT,1
+hourly,TIME,1
+less than 1000,CARDINAL,1
+msft,ORG,1
+10k,CARDINAL,1
+hacker news,ORG,1
+meager-but-self-inflated,ORG,1
+mad world,ORG,1
+gary jules,PERSON,1
+jim,PERSON,1
+rpe,ORG,1
+good…if,ORG,1
+iron man,PERSON,1
+be/nfird4y5z_g,ORG,1
+the world hunger association,ORG,1
+syrian,NORP,1
+one year later,DATE,1
+45+ years,DATE,1
+the last \~,DATE,1
+idiot,WORK_OF_ART,1
+idiot,PERSON,1
+doesn’t make,ORG,1
+twitter employee 1:,WORK_OF_ART,1
+twitter employee 2,WORK_OF_ART,1
+a multi billion dollar,MONEY,1
+$30 billion,MONEY,1
+$10 billion,MONEY,1
+notice,ORG,1
+just one year,DATE,1
+4500,CARDINAL,1
+martin,PERSON,1
+javelin,PERSON,1
+250,MONEY,1
+months to years,DATE,1
+jensen,PERSON,1
+about eight,CARDINAL,1
+the protozoic era,DATE,1
+six fucking months,DATE,1
+close,ORG,1
+geocities,ORG,1
+the good days,DATE,1
+over 80%,PERCENT,1
+4000,CARDINAL,1
+putins,ORG,1
+the great lakes,FAC,1
+nestle,ORG,1
+lots,ORG,1
+borg,PERSON,1
+madden,GPE,1
+christopher moot poole,PERSON,1
+next season,DATE,1
+20b,MONEY,1
+just a few weeks,DATE,1
+the 44 billion,MONEY,1
+tesla/the boring co/,WORK_OF_ART,1
+"18, 2022",DATE,1
+stole,GPE,1
+iridium,ORG,1
+the british government,ORG,1
+5 or so,CARDINAL,1
+1 billion dollars,MONEY,1
+lifetime,DATE,1
+15,MONEY,1
+elon musk makes,WORK_OF_ART,1
+270 billion,MONEY,1
+one hour 40,TIME,1
+52 week,DATE,1
+24/7,PRODUCT,1
+the 80 hour,TIME,1
+the thia cave incident,ORG,1
+lose a billion dollars,ORG,1
+hallmark holiday special,LOC,1
+taylor swift,PERSON,1
+hilary,PERSON,1
+biden fox,PERSON,1
+b-52,PRODUCT,1
+more than $44 billion,MONEY,1
+eion,ORG,1
+trading places,ORG,1
+amex,ORG,1
+tiktok,GPE,1
+the crawling chaos,WORK_OF_ART,1
+a million dollar,MONEY,1
+narcissists,NORP,1
+paramedics,PRODUCT,1
+space ex,PERSON,1
+this morning,TIME,1
+356,CARDINAL,1
+154,CARDINAL,1
+close to zero,CARDINAL,1
+johnson,PERSON,1
+san fran,GPE,1
+nonsense johnson,PERSON,1
+the us office,ORG,1
+whereas gervais,PERSON,1
+germans,NORP,1
+the battle of the atlantic,FAC,1
+gonna,GPE,1
+60,CARDINAL,1
+30,DATE,1
+w/o,ORG,1
+30 or 60 day,DATE,1
+95%,PERCENT,1
+mccarthy,PERSON,1
+the next 2 years,DATE,1
+lucille ball:,PERSON,1
+elon musk:  extreme,WORK_OF_ART,1
+the 2000s,DATE,1
+netflix,GPE,1
+the 2010s,DATE,1
+reed hastings,PERSON,1
+a thousand,CARDINAL,1
+a nobel peace prize,WORK_OF_ART,1
+screenshots](https,ORG,1
+html 1.0,ORG,1
+ftr,ORG,1
+geocities,LOC,1
+the previous day,DATE,1
+ponzi,ORG,1
+the last 20 years,DATE,1
+the past 30 days,DATE,1
+the past couple months,DATE,1
+1982,DATE,1
+](https://www,WORK_OF_ART,1
+chrome,PERSON,1
+l=54,ORG,1
+drc=60039d4d4bd70512e21a2dfe586602aca1d9d35e,DATE,1
+chrome,PRODUCT,1
+fifty,CARDINAL,1
+47,CARDINAL,1
+expertise](https,ORG,1
+about 5k,CARDINAL,1
+1k,CARDINAL,1
+fifty *thousand,CARDINAL,1
+ulysses,GPE,1
+"com/elonmusk/status/1593767953706921985
+vote",ORG,1
+400,CARDINAL,1
+10 minutes,TIME,1
+only 13b,CARDINAL,1
+gerald,PERSON,1
+watch me--i',PERSON,1
+turbo,WORK_OF_ART,1
+text=turbo%20teen%20is%20an%20american,NORP,1
+for%20thirteen%20episodes%20in%201984,GPE,1
+&text=the%20series%20was%20rerun%20on,ORG,1
+usa%20cartoon%20express%20programming%20block.,GPE,1
+pontiac,ORG,1
+contract\n\n,ORG,1
+shkreli,NORP,1
+ge,ORG,1
+brexit,PERSON,1
+27,CARDINAL,1
+2a,CARDINAL,1
+crowder,PERSON,1
+liking elon,PERSON,1
+afternoon,TIME,1
+the last six months,DATE,1
+tmz,ORG,1
+daymond john,PERSON,1
+daymond,GPE,1
+loyalty and trust,ORG,1
+com/esg/musk-tells-debt-bankers-he-plans-to-close-twitter-deal-on-friday,DATE,1
+80-hour work weeks,DATE,1
+the warn act,LAW,1
+around 20 to,CARDINAL,1
+additionally,GPE,1
+early november,DATE,1
+the other day,DATE,1
+about $8,MONEY,1
+3 billion,CARDINAL,1
+bigoted…when,PERSON,1
+monarchy,PERSON,1
+jean baptiste zorg,PERSON,1
+the musk parody,WORK_OF_ART,1
+devop,ORG,1
+231z/code4/pgm,ORG,1
+one month,DATE,1
+ticket,PRODUCT,1
+50 years,DATE,1
+12000,CARDINAL,1
+30-day,CARDINAL,1
+a week before thanksgiving,DATE,1
+a penny,MONEY,1
+the end of next month,DATE,1
+season,DATE,1
+employees](https,ORG,1
+thief](https,ORG,1
+$200k,MONEY,1
+thanksgiving day,DATE,1
+three weeks ago,DATE,1
+more than 10 years,DATE,1
+bipolar/mania,GPE,1
+abc,ORG,1
+"au/news/2022-11-19/what-is-mastodon-twitter-rival-platform-elon-musk-takeover/101674440
+service",ORG,1
+good/bad,ORG,1
+orbán,ORG,1
+brazilian,NORP,1
+the ukraine war,EVENT,1
+a month ago,DATE,1
+as exactly half,CARDINAL,1
+united states,GPE,1
+satan,ORG,1
+quatar,ORG,1
+the koch brothers,ORG,1
+rupert murdock,PERSON,1
+duponts,ORG,1
+tik tok,PERSON,1
+mitch mcconnell,PERSON,1
+tories,NORP,1
+nestlé,GPE,1
+tom cruise,PERSON,1
+us citizens,WORK_OF_ART,1
+9 year olds,DATE,1
+1-10,CARDINAL,1
+the decades,DATE,1
+the third month,DATE,1
+ezra miller,PERSON,1
+this world cup,EVENT,1
+godam,PERSON,1
+tucker carlson's,PERSON,1
+mckarthy,PERSON,1
+pr,ORG,1
+devs,PERSON,1
+200k,ORG,1
+35 billion,CARDINAL,1
+1 second,TIME,1
+300 million,CARDINAL,1
+200 million,CARDINAL,1
+65 million,CARDINAL,1
+56 million,CARDINAL,1
+37 million,CARDINAL,1
+6 million,CARDINAL,1
+belgian,NORP,1
+super,ORG,1
+12%,PERCENT,1
+ones few years ago,DATE,1
+rip,ORG,1
+every weekend,DATE,1
+the 16 hours,TIME,1
+those two months,DATE,1
+hundreds of thousands,CARDINAL,1
+84%,PERCENT,1
+john ioannidis,PERSON,1
+the 2014 world cup,EVENT,1
+first world cup,EVENT,1
+january 2021,DATE,1
+version 2,LAW,1
+europeans,NORP,1
+budweiser,ORG,1
+budweiser,PERSON,1
+30,CARDINAL,1
+500k,ORG,1
+2021 first quarter,DATE,1
+almost 2023,CARDINAL,1
+terrible,PRODUCT,1
+bad week,EVENT,1
+thousand,CARDINAL,1
+jeremy clarkson,PERSON,1
+"com/blog/tesla-vs-top-gear
+article",ORG,1
+com/media/2013/mar/05/top-gear-tesla-jeremy-clarkson,PERSON,1
+nissan,ORG,1
+roadster,PRODUCT,1
+the model s,FAC,1
+the first two years,DATE,1
+consumer reports,ORG,1
+toyotas,ORG,1
+hondas,PRODUCT,1
+donald frump,PERSON,1
+"estate
+reinstating",EVENT,1
+"trump, libs of tiktok",ORG,1
+twittergate,PERSON,1
+cryptoworld,ORG,1
+kyle rittenhouse,PERSON,1
+elon musk: nonsense,WORK_OF_ART,1
+blank,ORG,1
+donald trump's,PERSON,1
+propaganda dementia,PERSON,1
+ont twitter,PERSON,1
+twitter employees,ORG,1
+the last 2 months,DATE,1
+1am,DATE,1
+visas,GPE,1
+com/wp-content/uploads/sites/2/2022/07/donald-trump-elon-musk-fued-04,GPE,1
+tesla model 3,PRODUCT,1
+servitude](https,ORG,1
+zev,ORG,1
+las vegas,GPE,1
+15 million,CARDINAL,1
+""" - elon musk",PRODUCT,1
+fuck donald trump,PERSON,1
+just a few months ago,DATE,1
+pump-and-dump,NORP,1
+kathy griffin,PERSON,1
+alex jones',PERSON,1
+reinstating trump,ORG,1
+sandy hook,PERSON,1
+pontius pilate,ORG,1
+a white wash,ORG,1
+$35 dollars,MONEY,1
+mid-30s,DATE,1
+40s,DATE,1
+any pm,TIME,1
+screenshots,ORG,1
+twitter & musk,WORK_OF_ART,1
+sanhedrim,ORG,1
+christianity,NORP,1
+the 19th century,DATE,1
+centuries,DATE,1
+wwi,GPE,1
+non-jewish germans,NORP,1
+make germany great again,FAC,1
+slavic,NORP,1
+holocaust,EVENT,1
+wwi,ORG,1
+anti-jewish,NORP,1
+zionism,NORP,1
+palestinians,NORP,1
+anti-semitic,ORG,1
+anti-semitic,NORP,1
+israeli,NORP,1
+hypocrisy,PERSON,1
+children’s hospitals,ORG,1
+com/technology/2022/11/elon-music-twitter-transgender-harassment-misinformation,ORG,1
+60/40,CARDINAL,1
+homophobia,GPE,1
+all week long,DATE,1
+truth social 2,ORG,1
+240,CARDINAL,1
+journalists/news sites/aggregators,ORG,1
+2016-2020,CARDINAL,1
+given elon's,ORG,1
+doesn't care,ORG,1
+og,ORG,1
+donald j trump,PERSON,1
+pro-map,ORG,1
+boycott,ORG,1
+spewthing,GPE,1
+jeffrey epsteins,PERSON,1
+t&c,ORG,1
+the 1st,DATE,1
+naaaaah,PERSON,1
+22b,DATE,1
+280b,PRODUCT,1
+almost 100%,PERCENT,1
+bartertown,GPE,1
+thunderdome,LOC,1
+truthsocial,ORG,1
+bot & troll,ORG,1
+another four years,DATE,1
+payroll,ORG,1
+88 million,CARDINAL,1
+an additional 60 million,MONEY,1
+more than 80%,PERCENT,1
+about $25 billion,MONEY,1
+$21 billion,MONEY,1
+frank,PERSON,1
+tchan,ORG,1
+🤦‍♂️,ORG,1
+jan 6th,DATE,1
+four year old,DATE,1
+a cent,MONEY,1
+always,ORG,1
+five,CARDINAL,1
+occam’s razor,ORG,1
+reinstate,ORG,1
+parler,ORG,1
+should elon musk,WORK_OF_ART,1
+immigrants,ORG,1
+ban elon musk,WORK_OF_ART,1
+exodus day,DATE,1
+more than 3 seconds,TIME,1
+kinda,GPE,1
+vine,PERSON,1
+a couple hundred,CARDINAL,1
+tesla/musk,ORG,1
+the last 24 hours,TIME,1
+51%,PERCENT,1
+gotta,PRODUCT,1
+alpha,PERSON,1
+com/2022/07/12/elon-musk-says-its-time-for-trump-to-sail-into-the-sunset,GPE,1
+more than a billion dollars,MONEY,1
+oil/gas,DATE,1
+com/article/elon-musk-twitter-poll-ukraine-russia-bots,ORG,1
+pussy,ORG,1
+lol ran,ORG,1
+2 days ago,DATE,1
+5-10,CARDINAL,1
+jfc,PERSON,1
+literally days,DATE,1
+twitter boycott immediately,PERSON,1
+humanity doesn',ORG,1
+1%er,CARDINAL,1
+reddit,ORG,1
+peach,PERSON,1
+big trump,ORG,1
+parlor,PERSON,1
+teflon,PRODUCT,1
+bitcoin,PERSON,1
+said tesla,PERSON,1
+fascist social,ORG,1
+3ish years later,DATE,1
+it](https,ORG,1
+ph/rwda4,PERSON,1
+tiktok](https,ORG,1
+meet your maker](https,WORK_OF_ART,1
+85%,PERCENT,1
+sites/apps*](https,GPE,1
+pathtopurchase,ORG,1
+january6th,PERSON,1
+gov/files/2022-1-13,PERSON,1
+january 6th,DATE,1
+the select committee,ORG,1
+aaaaand,ORG,1
+next week's,DATE,1
+25 hours,TIME,1
+trump musk 24,PRODUCT,1
+fuck musk,WORK_OF_ART,1
+talulah riley's,PERSON,1
+elon musk can,WORK_OF_ART,1
+elon musk how,WORK_OF_ART,1
+theodore roosevelt,PERSON,1
+rockerfeller(bloomberg,PERSON,1
+carnegie(bezos,ORG,1
+vanderbilt(zuckerberg,ORG,1
+jp morgan(blackrock,ORG,1
+triple your investments,WORK_OF_ART,1
+joe biden,PERSON,1
+a third,CARDINAL,1
+sun,ORG,1
+the first minutes,TIME,1
+fuck musk,PERSON,1
+bastard,PERSON,1
+just 48%,PERCENT,1
+120+ hour weeks,TIME,1
+working 18 hours,TIME,1
+7 days,DATE,1
+south afrikaan,GPE,1
+cruz,PERSON,1
+us government,ORG,1
+less than a week,DATE,1
+onion for video game nerds,WORK_OF_ART,1
+nft,ORG,1
+14 year old,DATE,1
+14 fucking years,DATE,1
+less than 3 weeks,DATE,1
+boo,PERSON,1
+iphone,ORG,1
+org/2022/11/19/1131351535/elon-musk-allows-donald-trump-back-on-twitter,PERSON,1
+dopey elon,WORK_OF_ART,1
+truth social,WORK_OF_ART,1
+liar,ORG,1
+elno,GPE,1
+children](https,ORG,1
+ted,PERSON,1
+media group,ORG,1
+msnbc,ORG,1
+comcast,ORG,1
+trial lawyers,ORG,1
+unions,ORG,1
+elon twitter,PERSON,1
+elon musk:,WORK_OF_ART,1
+3/4,CARDINAL,1
+trump and truth social,ORG,1
+1-to-1,CARDINAL,1
+nhtsa,ORG,1
+ota,ORG,1
+putin,GPE,1
+i got years ago,DATE,1
+musk-engendered,PRODUCT,1
+sony,ORG,1
+2005,DATE,1
+murdoch,PRODUCT,1
+new twitter,LOC,1
+babylon bee,ORG,1
+actual,ORG,1
+libsoftiktok,PERSON,1
+all night,TIME,1
+the east coast,LOC,1
+midas touch,WORK_OF_ART,1
+3 weeks ago,DATE,1
+waltons,PERSON,1
+angsty,ORG,1
+heisenbergs,ORG,1
+contraband](https,ORG,1
+elon musk $8,MONEY,1
+tony stark irl,PERSON,1
+the orange crustacean,ORG,1
+aoc,ORG,1
+jan,DATE,1
+wtf elon,PERSON,1
+january 2009,DATE,1
+rumor,ORG,1
+iron man gonna,PERSON,1
+& twitter,PERSON,1
+josef putin,PERSON,1
+zelenskyy,GPE,1
+first ev,ORG,1
+musk isn,PERSON,1
+bye-bye twitter,PERSON,1
+75 million,CARDINAL,1
+66 million,CARDINAL,1
+the trucker convoy,ORG,1
+ottawa,GPE,1
+item 1,LAW,1
+trump & musk,ORG,1
+ttunp,PERSON,1
+trump’s truth social,ORG,1
+the past 12 hours,DATE,1
+4th quarter,DATE,1
+4 weeks,DATE,1
+a single fucking day,DATE,1
+twitter impersonation,PERSON,1
+aka elon musk,PERSON,1
+a few weeks,DATE,1
+brave musk,PERSON,1
+approximately 24 hours,TIME,1
+12 days,DATE,1
+nearly 30 million,CARDINAL,1
+$100 million,MONEY,1
+may 2002,DATE,1
+fan,ORG,1
+palin,GPE,1
+mute/block musk,PERSON,1
+cortez,ORG,1
+2nd/3rd,CARDINAL,1
+someone,PERSON,1
+tourette syndrome,ORG,1
+rolling stone,ORG,1
+atlantic,LOC,1
+$8,MONEY,1
+rag,PERSON,1
+com/every-advertiser-pull-out-twitter-since-musk-takeover-full-list-1756859,GPE,1
+shithole](https,ORG,1
+liberal,ORG,1
+zukerberg,GPE,1
+ux,ORG,1
+3yrs ago,DATE,1
+mark don',PERSON,1
+the elon musk of,LAW,1
+free hate,GPE,1
+n kanye,PERSON,1
+parler/4chan/truth,ORG,1
+epstein,PERSON,1
+boston,GPE,1
+24h,DATE,1
+48h,DATE,1
+imma gonna,PERSON,1
+imagine,FAC,1
+kyrie irving,PERSON,1
+taylor greene,PERSON,1
+qatari,NORP,1
+lick,GPE,1
+op,ORG,1
+a years,DATE,1
+iger,ORG,1
+about 63-65%,PERCENT,1
+vanguard group inc,ORG,1
+blackrock inc.,ORG,1
+blk,ORG,1
+state street corp.,ORG,1
+1/5,CARDINAL,1
+wold cup,WORK_OF_ART,1
+qatar world cup,EVENT,1
+rand,ORG,1
+com/2017/06/14/6-novels-that-changed-how-elon-musk-jeff-bezos-and-mark-cuban,ORG,1
+less than 1 billion,MONEY,1
+10th,ORDINAL,1
+mba,PERSON,1
+gme,ORG,1
+"larry ellison
+morgan stanley
+bank of america",PERSON,1
+"barclays 
+qatar investment authority",ORG,1
+narcissist,NORP,1
+many 16/17 year olds,DATE,1
+3%,PERCENT,1
+4%,PERCENT,1
+gen x/y/z,PERSON,1
+com/2022/11/16/elon-musk-mother-stop-being-mean/,ORG,1
+the fire department,ORG,1
+200 billion dollars,MONEY,1
+goddamn,PERSON,1
+missouri,GPE,1
+about $13bn,MONEY,1
+morgan stanley,ORG,1
+bank of america,ORG,1
+mizuho,GPE,1
+barclays,GPE,1
+societe generale,ORG,1
+bnp paribas,ORG,1
+the us securities and exchange commission,ORG,1
+morgan stanley’s,ORG,1
+about $3,MONEY,1
+5bn,ORDINAL,1
+way,ORG,1
+oracle,ORG,1
+iranian,NORP,1
+the 1980s,DATE,1
+over $100,MONEY,1
+thousands of dollars,MONEY,1
+craig’s list,ORG,1
+africans,NORP,1
+bay,LOC,1
+7k,CARDINAL,1
+propaganda,GPE,1
+rnc,ORG,1
+dorsey,ORG,1
+27%,PERCENT,1
+californians,NORP,1
+91%,PERCENT,1
+2016,CARDINAL,1
+lives…and,ORG,1
+a good thing and elon musk is very smart,WORK_OF_ART,1
+13 billion,CARDINAL,1
+55 million,CARDINAL,1
+a bad day,DATE,1
+twatter,GPE,1
+other,ORG,1
+43,CARDINAL,1
+more than 70%,PERCENT,1
+csi starbase,FAC,1
+boca chica,GPE,1
+jim crow,PERSON,1
+theranos,ORG,1
+nine yards,QUANTITY,1
+less than 5%,PERCENT,1
+sequoia,WORK_OF_ART,1
+about $15b,MONEY,1
+only 2 years,DATE,1
+less than $1b,MONEY,1
+about $200,MONEY,1
+the two years,DATE,1
+ellison,PERSON,1
+less than $10b,MONEY,1
+15b,MONEY,1
+the fox news,ORG,1
+44billion,CARDINAL,1
+trump-musk,ORDINAL,1
+oliver campbell,PERSON,1
+a couple billion,CARDINAL,1
+cbs,ORG,1
+snap,ORG,1
+abl,ORG,1
+buffett,PERSON,1
+three musk,QUANTITY,1
+colorado,GPE,1
+lauren boebert,PERSON,1
+lgbtq,NORP,1
+4x,CARDINAL,1
+if(and,GPE,1
+2022,CARDINAL,1
+2022 the year,DATE,1
+tweet &,ORG,1
+20 goto 10,QUANTITY,1
+20 billion,CARDINAL,1
+mba,WORK_OF_ART,1
+ms,GPE,1
+$44 billion dollar,MONEY,1
+almost 2-decades,CARDINAL,1
+dune,ORG,1
+justine,PERSON,1
+hanlon's razor,ORG,1
+org/wiki/hanlon%27s_razor,ORG,1
+11 years,DATE,1
+only 3,CARDINAL,1
+pragmaticengineer,PERSON,1
+around 85%,PERCENT,1
+software engineers,ORG,1
+400k,FAC,1
+only 1,CARDINAL,1
+52 million,CARDINAL,1
+11%,PERCENT,1
+96,MONEY,1
+less than a third,CARDINAL,1
+trevor noah,PERSON,1
+soccer,ORG,1
+these years,DATE,1
+people itt,PERSON,1
+ux,FAC,1
+48hours,CARDINAL,1
+the last couple years,DATE,1
+1981,DATE,1
+14 years,DATE,1
+errol,PERSON,1
+scotia bank,ORG,1
+birdwatch,GPE,1
+five mile,QUANTITY,1
+kinda shitty,PERSON,1
+wether,PERSON,1
+$4m,MONEY,1
+170,MONEY,1
+com/2018/06/19/how-elon-musk-founded-zip2-with-his-brother-kimbal,GPE,1
+thats,NORP,1
+"musk
+space karen",ORG,1
+clooney,ORG,1
+the next hour,TIME,1
+3-weeks,CARDINAL,1
+mussk,ORG,1
+twitter](https://www.,ORG,1
+up to 20,CARDINAL,1
+//pbs,ORG,1
+twitter-clone,ORG,1
+100000,CARDINAL,1
+$10 million,MONEY,1
+180%,PERCENT,1
+left,WORK_OF_ART,1
+around 10%,PERCENT,1
+a last minute,TIME,1
+28,CARDINAL,1
+june 22,DATE,1
+oct 22,DATE,1
+us midterm elections,ORG,1
+the red wave,ORG,1
+22,CARDINAL,1
+weaponized incompetence,LOC,1
+aim,ORG,1
+claim](https,ORG,1
+sci fi,FAC,1
+koch,PERSON,1
+40k a year,DATE,1
+300k,ORG,1
+millions a month,DATE,1
+realize…he,GPE,1
+free,ORG,1
+a hundred million dollar,MONEY,1
+payday,DATE,1
+speech,ORG,1
+mit,ORG,1
+as week or so ago,DATE,1
+kanye’s,ORG,1
+euro,LAW,1
+hats,PERSON,1
+almost $200 billion,MONEY,1
+many billions of dollars,MONEY,1
+tens,PERSON,1
+hundreds of billions of dollars,MONEY,1
+the coming decades,DATE,1
+266%,PERCENT,1
+several hours,TIME,1
+doj,ORG,1
+the 10%,PERCENT,1
+the other 90%,PERCENT,1
+kafala,ORG,1
+price alwaleed bin talal,PERSON,1
+about $50 million,MONEY,1
+about $1 billion,MONEY,1
+to%20meet%20its%20financial%20obligations,CARDINAL,1
+about $1,MONEY,1
+about 20%,PERCENT,1
+martin eberhard & marc tarpenning,ORG,1
+every single day of 2023,DATE,1
+weekends,DATE,1
+$3m,MONEY,1
+less than a month's,DATE,1
+$36m,MONEY,1
+999,MONEY,1
+23%,PERCENT,1
+300k,PRODUCT,1
+100k,MONEY,1
+400k,MONEY,1
+devils,ORG,1
+the east india company,ORG,1
+brittain,GPE,1
+fox news/murdoch,ORG,1
+educate,ORG,1
+80 hour weeks,TIME,1
+hbr,ORG,1
+100s of millions,MONEY,1
+banks,PERSON,1
+12,MONEY,1
+loans](https,ORG,1
+48b five years,DATE,1
+10b+,MONEY,1
+com/technology/elon-musks-net-worth-slips-below-200-billion-tesla-shares-waver-2022-11-08/,GPE,1
+october 11,DATE,1
+elon musk spoke to,WORK_OF_ART,1
+putin before,PERSON,1
+eurasia group’s,ORG,1
+ian bremmer,PERSON,1
+crimea,PERSON,1
+business insider,ORG,1
+usatoday,DATE,1
+more than 1,CARDINAL,1
+3 million,CARDINAL,1
+between 50 and 54,DATE,1
+each month,DATE,1
+40 billion,MONEY,1
+$12 billion,MONEY,1
+ruzzian cow-bell,ORG,1
+about $80 million dollars,MONEY,1
+neo-twitter 3,DATE,1
+2027,DATE,1
+around 20-25%,PERCENT,1
+engineering,GPE,1
+operations,ORG,1
+internal corporate,ORG,1
+network securiry,GPE,1
+nlp,ORG,1
+ipad,ORG,1
+sa,GPE,1
+hr & accountant,ORG,1
+64,CARDINAL,1
+3 days,DATE,1
+a year or two ago,DATE,1
+hahaha,GPE,1
+200,CARDINAL,1
+12+ hour days,TIME,1
+80-100 hour,TIME,1
+a mere 40 hours,QUANTITY,1
+2am,ORDINAL,1
+30pm,ORDINAL,1
+10pm,DATE,1
+dr,ORG,1
+victrola,ORG,1
+over 100 years,DATE,1
+rockets,PERSON,1
+a half second,TIME,1
+twitter black site,ORG,1
+euromaidan,ORG,1
+twitter revolution,WORK_OF_ART,1
+apr,ORG,1
+around 15%,PERCENT,1
+an additional $2,MONEY,1
+$24 billion,MONEY,1
+declaring twitter,PERSON,1
+30 something billion dollars,MONEY,1
+martin skreli,PERSON,1
+bernie madoff,PERSON,1
+at least $10,MONEY,1
+elon infantino,ORG,1
+four hours,TIME,1
+corolla,PRODUCT,1
+a hot minute,TIME,1
+elon musk's texts shatter the myth of the tech genius](https,WORK_OF_ART,1
+geo=us&q=how%20to%20delete%20twitter,PERSON,1
+twiddler,WORK_OF_ART,1
+40+ billion dollars,MONEY,1
+mbs,WORK_OF_ART,1
+"musk, inc",ORG,1
+reagan,PERSON,1
+qataris,NORP,1
+jd,PERSON,1
+musk paypal,PERSON,1
+gawker,PERSON,1
+1950,DATE,1
+log cabin republicans,PERSON,1
+thiel doesn,PERSON,1
+$4 trillion,MONEY,1
+winnebago,GPE,1
+socialism,NORP,1
+bolsanaro,NORP,1
+jimmy dore,PERSON,1
+glen greenwald,PERSON,1
+80 hours week,TIME,1
+hunter biden's,PERSON,1
+vince mcmahon,PERSON,1
+trent reznor,PRODUCT,1
+twitters,LOC,1
+matt walsh,PERSON,1
+kyrie,GPE,1
+$171 billion,MONEY,1
+the last three years,DATE,1
+nonsensical technical jargon,ORG,1
+papers,WORK_OF_ART,1
+4 billion palace,MONEY,1
+the black sea,LOC,1
+monaco,GPE,1
+bill browder,PERSON,1
+$200 billion,MONEY,1
+elongone muskov,ORG,1
+clubhouse,PERSON,1
+recent years,DATE,1
+institute,ORG,1
+2007,DATE,1
+fortune,WORK_OF_ART,1
+over $100 billion,MONEY,1
+$170 billion to $182 billion,MONEY,1
+bloomberg,GPE,1
+bernard arnault,PERSON,1
+$157 billion,MONEY,1
+around $410,MONEY,1
+november of 2021,DATE,1
+$340 billion,MONEY,1
+sam bankman fried,PERSON,1
+kickstarter,GPE,1
+between 0.3 to 0.9.,DATE,1
+wall street bets,ORG,1
+pump-and-dump,PERSON,1
+55,DATE,1
+22,DATE,1
+eeyore musk,PERSON,1
+husband,ORG,1
+the last minute,TIME,1
+the early days,DATE,1
+steve job,PERSON,1
+greek,NORP,1
+nttawwt,ORG,1
+10x,DATE,1
+teslas,PRODUCT,1
+elon musk - flounder of tesla,WORK_OF_ART,1
+only 50%,PERCENT,1
+imma,PERSON,1
+20-30%,PERCENT,1
+a year ago,DATE,1
+60 mph,QUANTITY,1
+2 seconds,TIME,1
+uber,ORG,1
+the past month,DATE,1
+spacex piggy bank,ORG,1
+several more 100 billions,MONEY,1
+cook,PERSON,1
+benioff,PERSON,1
+amazon -44%,PERCENT,1
+the 300 mile,QUANTITY,1
+tesla ev's,ORG,1
+unionize,PERSON,1
+this modern day,DATE,1
+southeast asia,LOC,1
+elon musk didn',PRODUCT,1
+elon musk’s business ties,WORK_OF_ART,1
+washington - tesla,GPE,1
+beijing,GPE,1
+armand hammer,PERSON,1
+lenin,PERSON,1
+](https://en,WORK_OF_ART,1
+space x,PERSON,1
+hyperloops,ORG,1
+that 20%,PERCENT,1
+em,ORG,1
+a dozen,CARDINAL,1
+qa,ORG,1
+two days,DATE,1
+nearly 60%,PERCENT,1
+mcafee,ORG,1
+2025,DATE,1
+bmw,ORG,1
+24-39%,PERCENT,1
+roughly 3-4x,CARDINAL,1
+combine,ORG,1
+occupy,WORK_OF_ART,1
+who,ORG,1
+almost 60%,PERCENT,1
+amd,ORG,1
+nvda,ORG,1
+sq,ORG,1
+pypl,ORG,1
+roku,ORG,1
+nflx,ORG,1
+amzn,ORG,1
+the -60%,PERCENT,1
+tarpenning,ORG,1
+maga-esque,NORP,1
+the past 7 or 8 years,DATE,1
+three year,DATE,1
+dei,ORG,1
+esg,ORG,1
+tech,ORG,1
+hawaii,GPE,1
+'21,DATE,1
+f-150 lightning,ORG,1
+ford mustang electric,ORG,1
+ram cybertruck,PERSON,1
+dodge,ORG,1
+otaku,GPE,1
+that same decade,DATE,1
+the trd pro cybertruck,ORG,1
+a nice day,DATE,1
+felon musk,PRODUCT,1
+stem,ORG,1
+the days,DATE,1
+earlier in the year,DATE,1
+last minute,TIME,1
+a century,DATE,1
+888,CARDINAL,1
+541,CARDINAL,1
+over 5%,PERCENT,1
+almost $2 billion,MONEY,1
+less than 4 hours,TIME,1
+8 billion dollars,MONEY,1
+4 hours,TIME,1
+drumpf,ORG,1
+detroit,GPE,1
+mommy,PERSON,1
+daddies,NORP,1
+as much as,MONEY,1
+about 50%,PERCENT,1
+about $120b,MONEY,1
+nearly a third,CARDINAL,1
+that belief months ago,DATE,1
+50 plus years,DATE,1
+dogecoin,ORG,1
+kidding,ORG,1
+twice,ORG,1
+24 million dollars,MONEY,1
+next spring,DATE,1
+reddit,GPE,1
+elon mortimer-randolph musk iii,PERSON,1
+around 500 million,CARDINAL,1
+2-4 percent,PERCENT,1
+blackrock,ORG,1
+vc,PERSON,1
+a couple month’s,DATE,1
+about 4 months,DATE,1
+elon musk after,WORK_OF_ART,1
+space x,ORG,1
+paypal,PRODUCT,1
+lexus,ORG,1
+england btw,ORG,1
+91,CARDINAL,1
+two years,DATE,1
+subaru,ORG,1
+8+ hour,TIME,1
+south korea,GPE,1
+365 days,DATE,1
+78,CARDINAL,1
+2 straight years,DATE,1
+1k,MONEY,1
+1m+,MONEY,1
+99.99%,PERCENT,1
+20m,MONEY,1
+99% then 99%,PERCENT,1
+1-tenth,CARDINAL,1
+4-places,CARDINAL,1
+00,CARDINAL,1
+$20m,MONEY,1
+200b,MONEY,1
+as much as one million,MONEY,1
+10x,CARDINAL,1
+budget,ORG,1
+smaug,ORG,1
+hobbit,PERSON,1
+twitter & subsequent stock,ORG,1
+24 hours/day,DATE,1
+every 4 years,DATE,1
+55%,PERCENT,1
+those years,DATE,1
+about a third,CARDINAL,1
+entrepreneur,ORG,1
+patriot,ORG,1
+norris,PERSON,1
+reeves,PERSON,1
+44b dollar,MONEY,1
+\[citi,GPE,1
+dr,PRODUCT,1
+precedent…,ORG,1
+taiwan,GPE,1
+communist,NORP,1
+'reunification',ORG,1
+the billion dollars,MONEY,1
+maga qanons,PERSON,1
+kia ev6,PERSON,1
+ioniq5,PERSON,1
+ccs1-tesla,ORG,1
+a few hundred dollars,MONEY,1
+kremina-svatove,LOC,1
+luhansk oblast,FAC,1
+bakhmut,ORG,1
+2065,DATE,1
+1853,DATE,1
+crimean war,EVENT,1
+ddos,ORG,1
+a few billion,MONEY,1
+fuckin,GPE,1
+kremlin,ORG,1
+their second week,DATE,1
+daily,ORG,1
+colonies,ORG,1
+mcdonald,ORG,1
+humans,NORP,1
+ffs,ORG,1
+nec,ORG,1
+qui,ORG,1
+quum tumultuositas,ORG,1
+last fall,DATE,1
+//cdn,ORG,1
+italian,NORP,1
+alex,PERSON,1
+econ,NORP,1
+wharton,PERSON,1
+this afternoon,TIME,1
+mussolini,PERSON,1
+franco,GPE,1
+more than 20 seconds,TIME,1
+suspensions/bans,NORP,1
+rand paul,PERSON,1
+mastodon,ORG,1
+44/month,MONEY,1
+trumpd,GPE,1
+zzz,CARDINAL,1
+men in black,ORG,1
+edgar,PERSON,1
+italian elon musk,PERSON,1
+hate,ORG,1
+10 to 15%,PERCENT,1
+a few minutes later,TIME,1
+44 billions,CARDINAL,1
+over weeks ago,DATE,1
+washington dc,GPE,1
+dc,GPE,1
+oauth,PERSON,1
+instagram,ORG,1
+16 years,DATE,1
+another 10 years,DATE,1
+employ,PERSON,1
+7d,CARDINAL,1
+confederate,ORG,1
+twitter2,ORG,1
+1987,DATE,1
+the very day,DATE,1
+shakespeare,PERSON,1
+177,CARDINAL,1
+choo choo motherfuckers,PERSON,1
+sr-17,PRODUCT,1
+lockheed a-12,ORG,1
+instagram,PRODUCT,1
+the joe rogan,PERSON,1
+the walker peck,PRODUCT,1
+kushner,ORG,1
+middle east,LOC,1
+elon musk eliminates safety,WORK_OF_ART,1
+completes twitter's,PERSON,1
+1000,MONEY,1
+baaaaaahh,ORG,1
+abbott laboratories,ORG,1
+allstate corporation,ORG,1
+amc networks,ORG,1
+american express company,ORG,1
+"blackrock, inc.",ORG,1
+bluetriton brands,ORG,1
+boston beer company,ORG,1
+california state lottery,ORG,1
+chevrolet,ORG,1
+chipotle mexican,NORP,1
+"citigroup, inc.",ORG,1
+"dell
+diageo
+directv
+",ORG,1
+discover financial services,ORG,1
+"fidelity
+first national realty partners",ORG,1
+heineken,ORG,1
+hilton worldwide,ORG,1
+inspire brands,ORG,1
+"kellogg company
+kohl's department stores",ORG,1
+kyndryl,ORG,1
+linkedin corporation,ORG,1
+the rocket science group,ORG,1
+"marriott international, inc.",ORG,1
+mars petcare,LOC,1
+"incorporated
+merck & co.",ORG,1
+merck sharp & dohme msd,ORG,1
+meta platforms,ORG,1
+"facebook, inc.",ORG,1
+moneywise,ORG,1
+"wise publishing, inc.",ORG,1
+"nestle
+novartis ag",ORG,1
+pernod ricard,ORG,1
+kraft heinz company,ORG,1
+"verizon
+wells fargo
+whole foods market ip
+yum",ORG,1
+kim dotcom,PERSON,1
+infowars,ORG,1
+googles,PERSON,1
+yiannopoulos,PERSON,1
+deactivate,ORG,1
+about 6 to,CARDINAL,1
+almost a century,DATE,1
+vw,ORG,1
+"spacex, boring company",ORG,1
+several decades,DATE,1
+don jr.,PERSON,1
+anti-musk,CARDINAL,1
+drop n,ORG,1
+whirlpool,ORG,1
+4-chan,CARDINAL,1
+season 3,DATE,1
+haven,PERSON,1
+6 or 7 years,DATE,1
+pure musk,PERSON,1
+the years of musk,DATE,1
+50 percent,PERCENT,1
+wagner,ORG,1
+misinformation,ORG,1
+nero,ORG,1
+graffiti,PERSON,1
+elon musk wants to rid twitter,WORK_OF_ART,1
+pandora,GPE,1
+pandoras,NORP,1
+jones,PRODUCT,1
+the howard hughes,ORG,1
+a months time,DATE,1
+"a ""free for public use",WORK_OF_ART,1
+free-speech-unless-i-don,ORG,1
+180/share,CARDINAL,1
+april 14th,DATE,1
+328/share,CARDINAL,1
+46%,PERCENT,1
+290/share,CARDINAL,1
+38%,PERCENT,1
+228/share,CARDINAL,1
+21%,PERCENT,1
+"mypillow, newsmax",ORG,1
+a billion,CARDINAL,1
+the rupert murdoch,PERSON,1
+shhhh,ORG,1
+adam conover,PERSON,1
+faced,WORK_OF_ART,1
+someones,ORG,1
+late at night,TIME,1
+these past couple of years,DATE,1
+the 7th of november,DATE,1
+11th,ORDINAL,1
+4chan,TIME,1
+the past couple decades,DATE,1
+shanghai,GPE,1
+mumbai,GPE,1
+saigon,GPE,1
+coo gwynne shotwell,PERSON,1
+brewster,WORK_OF_ART,1
+millions,ORG,1
+the communist party of china,ORG,1
+10 days later(five days,DATE,1
+com/technology/teslas-musk-may-add-sec-ire-with-late-report-about-twitter-stake-2022-04-05/,PERSON,1
+billions in tax dollars,MONEY,1
+yunno,PERSON,1
+kenya,GPE,1
+a month later,DATE,1
+1000%,PERCENT,1
+the council,ORG,1
+naacp,ORG,1
+council,ORG,1
+several thousands,CARDINAL,1
+35,CARDINAL,1
+april 25th,DATE,1
+couple billion,CARDINAL,1
+few weeks ago,DATE,1
+69i57.,CARDINAL,1
+5442j0j7&sourceid=chrome&ie=utf-8,CARDINAL,1
+oct 28th,DATE,1
+no handsome jack,PERSON,1
+hyperion,ORG,1
+xapp,ORG,1
+standard connectivity,ORG,1
+premium connectivity,ORG,1
+10/mo,DATE,1
+autopilot,ORG,1
+advanced,PERSON,1
+100 bucks,MONEY,1
+howard hughes,PERSON,1
+success,ORG,1
+1-2,CARDINAL,1
+each day,DATE,1
+week-to-week,ORG,1
+domino2064,GPE,1
+musk couldn',PERSON,1
+jojo,ORG,1
+alsi musk,PERSON,1
+hospital,ORG,1
+51 billion,CARDINAL,1
+about 47 million,CARDINAL,1
+elon,CARDINAL,1
+turning twitter,PERSON,1
+6th,ORDINAL,1
+snadyhook,PERSON,1
+rob denbleyker's,PERSON,1
+youtube,PERSON,1
+3 years ago,DATE,1
+google & fidelity,ORG,1
+bill gates-,PERSON,1
+the past 10+ years,DATE,1
+listen advertiser x,PERSON,1
+27bil,CARDINAL,1
+telsa,ORG,1
+60-70%,PERCENT,1
+almost daily,DATE,1
+the next 3 years,DATE,1
+volkswagen,ORG,1
+musk's wild ride,WORK_OF_ART,1
+under 5 years,DATE,1
+coca cola,ORG,1
+3x,CARDINAL,1
+john wihbey,PERSON,1
+northeastern university,ORG,1
+afp,ORG,1
+meme,GPE,1
+cbsnews,ORG,1
+com/news/elon-musk-twitter-engineer-fired-eric-frohnhoefer/,GPE,1
+140$,MONEY,1
+african-american,NORP,1
+a couple of months,DATE,1
+bohoo,ORG,1
+hundreds of billions,CARDINAL,1
+companies](https,ORG,1
+richard iii,PERSON,1
+1950](https,CARDINAL,1
+ron musk - chief high,PERSON,1
+gwymne shotwell,PERSON,1
+coo,ORG,1
+musk last week,DATE,1
+northrup,GPE,1
+neo-nazis,ORG,1
+neo-nazi,GPE,1
+lest,PERSON,1
+mary,PERSON,1
+spoiler,ORG,1
+700b,MONEY,1
+american,ORG,1
+pedophiles,GPE,1
+3-4x,CARDINAL,1
+four months ago,DATE,1
+wendy’s,ORG,1
+rainbow,ORG,1
+fuck qatar,ORG,1
+businessmanning,GPE,1
+ftc consent,ORG,1
+8$,MONEY,1
+2 billion $,MONEY,1
+last night,TIME,1
+fiat,ORG,1
+20 foot,QUANTITY,1
+100billion,CARDINAL,1
+13k,DATE,1
+3k,CARDINAL,1
+yay,PERSON,1
+apes,PERSON,1
+jpgs,PERSON,1
+ethereum,GPE,1
+looney bin,PERSON,1
+diamond check,GPE,1
+onyx,PERSON,1
+only 3 weeks,DATE,1
+doesn't tow,ORG,1
+the twitter gate,FAC,1
+ehhmm,PERSON,1
+com/2022/11/fire-fighters-use-12000-gallons-of-water-to-extinguish-burning-tesla-model-s/amp/,ORG,1
+fire](https,ORG,1
+roughly 500 gallons,QUANTITY,1
+12000,DATE,1
+24,CARDINAL,1
+3months,CARDINAL,1
+tangentially,DATE,1
+tweety,ORG,1
+mark doesn,PERSON,1
+fafo,ORG,1
+1000s,DATE,1
+columbine,ORG,1
+3d,CARDINAL,1
+at least 9k,CARDINAL,1
+the last 100 years,DATE,1
+elong musk,PERSON,1
+greed,PERSON,1
+about 10x,CARDINAL,1
+about 1 billion,CARDINAL,1
+european union,ORG,1
+six to two,CARDINAL,1
+julia mozer,PERSON,1
+dario la nasa,PERSON,1
+financial times](https,ORG,1
+mozer,PERSON,1
+la nasa,PERSON,1
+february 2024,DATE,1
+thierry breton,PERSON,1
+swiss,NORP,1
+more than five million,CARDINAL,1
+$30 billion dollars,MONEY,1
+verified,PRODUCT,1
+gates,PRODUCT,1
+google fiber,ORG,1
+nissan leaf,ORG,1
+hyundai,ORG,1
+ioniq,PRODUCT,1
+varallo,PERSON,1
+> exchange commission,ORG,1
+far,ORG,1
+suspension,PERSON,1
+fhwa,PERSON,1
+gov/construction/cqit/susdebqa,PRODUCT,1
+cfm,PERSON,1
+the european commission,ORG,1
+ec,ORG,1
+hr,GPE,1
+com/post.php,ORG,1
+my farts,PRODUCT,1
+the 1st amendment,LAW,1
+the us constitution,LAW,1
+literally,ORG,1
+the irish court system,ORG,1
+twitter europe's,LOC,1
+dublin,GPE,1
+digital services act,ORG,1
+elon’s musk,WORK_OF_ART,1
+the following week,DATE,1
+elong,PERSON,1
+525,CARDINAL,1
+tweets,ORG,1
+kick,PERSON,1
+coca-cola,CARDINAL,1
+90,CARDINAL,1
+sith,PERSON,1
+elon’s,WORK_OF_ART,1
+the end of the month,DATE,1
+100b,MONEY,1
+late october,DATE,1
+1966,DATE,1
+between 3 and 6 months,DATE,1
+each year,DATE,1
+nabisco,ORG,1
+the last week,DATE,1
+2500,CARDINAL,1
+around 700,CARDINAL,1
+lindell,PERSON,1
+the defense intelligence agency,ORG,1
+hahah,GPE,1
+quataris,PERSON,1
+steve carell,PERSON,1
+counter-strike,GPE,1
+verge,ORG,1
+verge,PRODUCT,1
+trumps ts,ORG,1
+ref_src=twsrc%5etfw%7ctwcamp%5etweetembed%7ctwterm%5e1595869526469533701%7ctwgr%5ec8f50df0e6d4f7174652b04e37688ebc8df78f50%7ctwcon%5es1_&ref_url=https%3a%2f%2fwww,ORG,1
+verizon,GPE,1
+chevy,ORG,1
+30 day,DATE,1
+80 days,DATE,1
+just 50,CARDINAL,1
+elon musk..,PRODUCT,1
+nearly $2 billion,MONEY,1
+over $750 million,MONEY,1
+olympic,EVENT,1
+networks(parler,ORG,1
+elon musk let,WORK_OF_ART,1
+gwen snyder,PERSON,1
+hive,PERSON,1
+parler 3,ORG,1
+"com/world/us/musk-recommends-voting-republicans-us-midterm-elections-tweet-2022-11-07/
+",PERSON,1
+1/2,CARDINAL,1
+ia,GPE,1
+koolaid,PERSON,1
+commemorative confederacy,ORG,1
+asperger,ORG,1
+1041uuu,CARDINAL,1
+microsoft paint,ORG,1
+activitypub,ORG,1
+technorati,GPE,1
+google reader,ORG,1
+tumblr,GPE,1
+another 99%,PERCENT,1
+$10 bucks,MONEY,1
+2 years ago,DATE,1
+congrats,NORP,1
+donnie moscow,PERSON,1
+350,CARDINAL,1
+weren,PERSON,1
+98,CARDINAL,1
+the last 3 years,DATE,1
+east coast,LOC,1
+elon musk:  lmao,WORK_OF_ART,1
+about musk 1 day,DATE,1
+the past several weeks,DATE,1
+elon musk / twitter,WORK_OF_ART,1
+6 years,DATE,1
+the early 2000s,DATE,1
+500%,PERCENT,1
+the three month,DATE,1
+til,ORG,1
+chad,PERSON,1
+this may,DATE,1
+20/month,MONEY,1
+8/month,MONEY,1
+blue,ORG,1
+ten days,DATE,1
+14,CARDINAL,1
+musk haa,PERSON,1
+rudy guliani,PERSON,1
+kkk,GPE,1
+kanye 2,FAC,1
+testla,GPE,1
+the second quarter,DATE,1
+6653401,DATE,1
+7/25/20,CARDINAL,1
+the church of capitalism,ORG,1
+oligarchs,NORP,1
+yeah teslas,PERSON,1
+the model s,PERSON,1
+100k,PRODUCT,1
+20k,DATE,1
+porsche,ORG,1
+30k,DATE,1
+fremont,GPE,1
+parker,ORG,1
+gab or truth social,ORG,1
+"html
+'",ORG,1
+an additional 1 month,DATE,1
+a year or so ago,DATE,1
+gone,ORG,1
+as 60 days,DATE,1
+the 30 days,DATE,1
+t/doesn,ORG,1
+elon musk's,PERSON,1
+spacex years ago,DATE,1
+important computer things,ORG,1
+~5pm,ORG,1
+presumably elon,ORG,1
+60 or 90 days,DATE,1
+30 more days,DATE,1
+jezus,ORG,1
+million,CARDINAL,1
+60 more days,DATE,1
+2024,CARDINAL,1
+ken,PERSON,1
+jordan petersen,PERSON,1
+aspergers,PERSON,1
+several years in a row,DATE,1
+8 years,DATE,1
+ron,PERSON,1
+u n +,ORG,1
+two months,DATE,1
+october 27th,DATE,1
+400x,PRODUCT,1
+don quixote,PERSON,1
+trump's,ORG,1
+parag,GPE,1
+50,MONEY,1
+30,MONEY,1
+08 billion,CARDINAL,1
+4$ billion dollars,MONEY,1
+more than 50%,PERCENT,1
+sound,GPE,1
+bolivia,GPE,1
+5k,CARDINAL,1
+around half,CARDINAL,1
+coca coal,PERSON,1
+ya spread misinformation,PERSON,1
+angela merkel,PERSON,1
+years literally](https:,DATE,1
+months,ORG,1
+more than two months,DATE,1
+devin nunes,PERSON,1
+•	⁠devin nunes' mom,ORG,1
+needs,ORG,1
+frank herbert,PERSON,1
+only a week ago,DATE,1
+newsmax,ORG,1
+borris,GPE,1
+2%,PERCENT,1
+20d,CARDINAL,1
+the three months,DATE,1
+4 months,DATE,1
+blackrock,GPE,1
+twitter-t,ORG,1
+bullshit,PERSON,1
+realistically twitter/musk,PERSON,1
+interesting,GPE,1
+coast-to-coast,LOC,1
+tweets,GPE,1
+"ig metall
+can'",ORG,1
+king's,ORG,1
+king doesn',ORG,1
+goons](https,ORG,1
+stalin,PERSON,1
+ilyin,PRODUCT,1
+akshually hitler,PERSON,1
+biden,ORG,1
+mohammed bin salman,PERSON,1
+a couple days ago,DATE,1
+chad loder's,PERSON,1
+andy ngo,PERSON,1
+nda,ORG,1
+except,ORG,1
+stans,NORP,1
+1969,DATE,1
+5mpg,ORG,1
+coke,ORG,1
+at least 50%,PERCENT,1
+chad loder,PERSON,1
+mike lindell,PERSON,1
+as day,DATE,1
+1 month,DATE,1
+visa,ORG,1
+bonus,PRODUCT,1
+> committee on energy and commerce,ORG,1
+subcommittee on communications and technology,ORG,1
+subcommittee on energy and power,ORG,1
+nuke twitter,PERSON,1
+grimes,GPE,1
+adidas,PERSON,1
+thiel,GPE,1
+250,CARDINAL,1
+$45k,MONEY,1
+give elon,WORK_OF_ART,1
+heinz,ORG,1
+math and science godemperor,WORK_OF_ART,1
+$20 bucks,MONEY,1
+750 million,CARDINAL,1
+2/3rds,CARDINAL,1
+only a few hundred dollars,MONEY,1
+$600 third,MONEY,1
+texans,NORP,1
+10 million,CARDINAL,1
+panama,GPE,1
+exxonmobil,ORG,1
+goldman sachs,ORG,1
+12b,CARDINAL,1
+1099,DATE,1
+every couple of years,DATE,1
+fwiw,ORG,1
+gpdr,ORG,1
+dma,ORG,1
+4000 hours,TIME,1
+the next 3-4 years,DATE,1
+people didn',ORG,1
+500,MONEY,1
+brad pitt,PERSON,1
+ctr,ORG,1
+be/5luu1beb8ng,ORG,1
