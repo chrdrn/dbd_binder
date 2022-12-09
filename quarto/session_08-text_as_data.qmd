@@ -1,0 +1,185 @@
+---
+title: "Showcase"
+subtitle: "Text as data"
+format: 
+  html:
+    toc: true
+    toc-depth: 4
+execute: 
+  cache: true
+  eval: true
+  echo: true
+  message: false
+  warning: false
+highlight-style: atom-one
+---
+
+```{r}
+#| echo: false
+options(scipen = 999)
+
+pacman::p_load(
+  here, fs, # file management
+  sjmisc, magrittr, lubridate, janitor, # data processing
+  sjPlot, # analysis
+  rvest, # scraping
+  quanteda, quanteda.textplots, # text processing
+  tidyverse  # last to resolve masking issues
+)
+```
+
+## Background
+
+- Scraping Amazon Reviewss in R
+
+## Scraping
+### Preparation
+```{r}
+pacman::p_load(RCurl, XML, dplyr, rvest, purrr)
+```
+
+
+### Create function
+
+based on [stackoverflow post](https://stackoverflow.com/a/70993803). 
+
+```{r}
+scrape_amazon <- function(page_num, review_url) {
+  url_reviews <- paste0(review_url, "&pageNumber=", page_num, "&sortBy=recent")
+  doc <- read_html(url_reviews)
+
+  map_dfr(doc %>% html_elements("[id^='customer_review']"), ~ data.frame(
+    review_title = .x %>% html_element(".review-title") %>% html_text2(),
+    review_text = .x %>% html_element(".review-text-content") %>% html_text2(),
+    review_star = .x %>% html_element(".review-rating") %>% html_text2(),
+    date = .x %>% html_element(".review-date") %>% html_text2() %>% gsub(".*vom ", "", .),
+    author = .x %>% html_element(".a-profile-name") %>% html_text2(),
+    page = page_num
+  )) %>%
+    as_tibble %>%
+    return()
+}
+```
+
+### Define urls
+```{r}
+url <- list(
+  p01 = "https://www.amazon.de/LINEAVI-Eiwei%C3%9F-Shake-Kombination-Molkeneiwei%C3%9F-laktosefrei/product-reviews/B018IB02AU/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+  p02 = "https://www.amazon.de/Detoxkuren%E2%80%A2-Entw%C3%A4sserung-Entschlackung-Stoffwechsel-entschlacken/product-reviews/B072QW5ZN1/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+  p03 = "https://www.amazon.de/Saint-Nutrition%C2%AE-KETO-BURN-Appetitz%C3%BCgler/product-reviews/B08B67V8G5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+  p04 = "https://www.amazon.de/Yokebe-vegetarisch-Mahlzeitersatz-Gewichtsabnahme-hochwertigen/product-reviews/B08GYZ8LRB/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews",
+  p05 = "https://www.amazon.de/Vihado-Liquid-chlorophyll-drops-alfalfa/product-reviews/B093XNC8QH/ref=cm_cr_arp_d_paging_btm_next_2?ie=UTF8&reviewerType=all_reviews"
+)
+```
+
+- p01 (Lineavi): 1.679 Gesamtbewertungen, 782 mit Rezensionen --> 79 pages
+- p02 (DietySlim):  1.652 Gesamtbewertungen, 268 mit Rezensionen --> 28 pages
+- p03 (Keto Burn): 3.341 Gesamtbewertungen, 540 mit Rezensionen --> 55 pages
+- p04 (Yokebe): 1.586 Gesamtbewertungen, 156 mit Rezensionen --> 16 pages
+- p05 (Vihado): 1.335 Gesamtbewertungen, 396 mit Rezensionen --> 40 pages
+
+
+### Get data
+```{r}
+amazon <- list()
+
+# p01 
+for (i in 1:79) {
+  df <- scrape_amazon(page_num = i, review_url = url$p01)
+  amazon$raw$p01[[i]] <- df
+}
+
+# p02
+for (i in 1:28) {
+  df <- scrape_amazon(page_num = i, review_url = url$p02)
+  amazon$raw$p02[[i]] <- df
+}
+
+# p03
+for (i in 1:55) {
+  df <- scrape_amazon(page_num = i, review_url = url$p03)
+  amazon$raw$p03[[i]] <- df
+}
+
+# p04
+for (i in 1:16) {
+  df <- scrape_amazon(page_num = i, review_url = url$p04)
+  amazon$raw$p04[[i]] <- df
+}
+
+# p05
+for (i in 1:40) {
+  df <- scrape_amazon(page_num = i, review_url = url$p05)
+  amazon$raw$p05[[i]] <- df
+}
+```
+
+### Bind rows
+```{r}
+product <- names(url)
+
+# bind rows for each product
+for (i in product) {
+  amazon$data[[i]] <- amazon$raw[[i]] %>% 
+    bind_rows() %>% 
+    rownames_to_column("id") %>% 
+    mutate(across(id, as.numeric))
+}
+
+# bind rows of all products
+amazon$full <- amazon$data %>% 
+  bind_rows(.id = "src")
+```
+
+### Save data
+```{r}
+saveRDS(amazon, file = here("content/08-text_as_data/data/reviews.RDS"))
+```
+
+
+## Data processing
+```{r}
+amazon$clean <- amazon$full %>% 
+  mutate(
+    across(src, as.factor), 
+    date_raw = date, 
+    date = str_extract(date_raw, "\\d{1,2}(.*)\\d{1,4}"),
+    lang = as.numeric(str_detect(date_raw, "Italien")), 
+    rating  = as.numeric(str_extract(review_star, "\\d{1}(?=,)"))
+  )
+```
+
+
+
+## Text processing
+```{r}
+library(quanteda)
+
+# Corpus creation
+amazon$crps <- corpus(
+  amazon$data,
+  docid_field = "id", 
+  text_field = "review_text"
+)
+
+# Tokenization
+amazon$tkn <- amazon$crps %>% 
+  tokens(
+    remove_punct = TRUE,
+    remove_symbols = TRUE,
+    remove_url = TRUE,
+    remove_separators = TRUE) %>% 
+  tokens_remove(pattern = stopwords("de"))
+
+# DFM
+amazon$dfm <- amazon$tkn %>% 
+  dfm()
+```
+
+
+## Sentiment analysis
+### Get dictionary
+```{r}
+
+```
+

@@ -53,6 +53,7 @@ This showcase is intended to illustrate different analysis possibilities of {{< 
 # load packages
 library(readr)
 
+# get data from github
 statistics <- read_csv(
   "https://raw.githubusercontent.com/chrdrn/dbd_binder/main/data/07-reddit/tiktok-search-statistics.csv")
   col_types = cols(author_followers = col_number()))
