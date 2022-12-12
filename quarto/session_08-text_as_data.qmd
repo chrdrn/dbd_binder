@@ -23,18 +23,14 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Background
 
--   Scraping Amazon Reviewss in R
-
-## Preparation
-
-### Load packages
-
-```{r}
+```{r preparation}
 #| echo: false
+
+# define options
 options(scipen = 999)
 
+# load packages
 pacman::p_load(
   rmarkdown, kableExtra,
   here, fs, # file management
@@ -47,9 +43,16 @@ pacman::p_load(
   tidyverse  # last to resolve masking issues
 )
 
+# load data
 amazon <- readRDS(
   url("https://github.com/chrdrn/dbd_binder/blob/main/data/08-text_as_data/reviews_tpm.RDS?raw=true"), "rb")
 ```
+
+
+## Background
+
+-   Scraping Amazon Reviewss in R
+
 
 ## Scraping
 
@@ -268,7 +271,7 @@ amazon$data$de %>%
 
 ```{r}
 #| label: Rating by product
-#| fig-cap: Charts
+#| fig-cap: Rating by product
 #| fig-subcap: 
 #|   - "Absolute"
 #|   - "Relative"
@@ -338,6 +341,7 @@ amazon$temp$crps_stats %>%
 
 ```{r}
 #| echo: false
+#| message: false
 
 library(quanteda.sentiment)
 
@@ -436,6 +440,7 @@ amazon$data$de_senti %>%
 ## Topic Modeling
 
 ### Preparation
+
 #### Text Processing
 
 ```{r}
@@ -480,12 +485,16 @@ textstat_frequency(
 
 #### Convert dfm to stm
 ```{r}
+#| eval: false
+
 amazon$tpm$dfm <- convert(amazon$txt$dfm, to = "stm")
 ```
 
 ### Choose topic number
 #### k = 0
 ```{r}
+#| eval: false
+
 tic("choose_k_free")
 amazon$tpm$nullmdl <- 
   stm(
@@ -508,6 +517,8 @@ amazon$tpm$nullmdl
 
 #### k = c(3:20)
 ```{r}
+#| eval: false
+
 topic_range <- c(3:20) # set topic range based on consistency statistics
 
 # Plan
@@ -533,6 +544,8 @@ toc(log = TRUE)
 
 ### Choose model
 ```{r}
+#| eval: false
+
 # Create heldout data
 amazon$tpm$heldout <- make.heldout(
   documents = amazon$tpm$dfm$documents,
@@ -664,10 +677,10 @@ labelTopics(amazon$stm$mdl, n =15)$prob %>%
   kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
 
-
-
 #### Prevalence
 ```{r}
+#| eval: false
+
 amazon$stm$preval <- list(
   terms_beta = amazon$stm$mdl %>% tidy(),
   doc_gamma = amazon$stm$mdl %>% tidy("gamma")
@@ -699,7 +712,7 @@ amazon$stm$preval$tgt <- amazon$stm$preval$top_topics %>%
 amazon$stm$preval$tgt  %>% 
   ggplot(aes(topic, gamma, label = terms, fill = topic)) +
   geom_col(show.legend = FALSE) +
-  geom_text(hjust = 1.1, nudge_y = 0.0005, size = 5, color = "white") +
+  geom_text(hjust = 1.1, nudge_y = 0.0005, size = 3, color = "white") +
   coord_flip() +
   scale_y_continuous(expand = c(0, 0), limits = c(0, 0.35), labels = scales::percent) +
   theme_bw() +
@@ -713,6 +726,8 @@ amazon$stm$preval$tgt  %>%
 ### Preparation
 #### Get gamma statistics for the documents
 ```{r}
+#| eval: false
+
 amazon$stm$merge <- list(
   doc_gamma_wide = amazon$stm$preval$doc_gamma %>% 
     group_by(document) %>% 
@@ -733,6 +748,8 @@ amazon$stm$merge <- list(
 
 #### Join with original data set
 ```{r}
+#| eval: false
+
 amazon$data$tpm <- amazon$data$de_senti %>% 
   filter(
     doc_id != 108 & doc_id != 790 &
@@ -776,6 +793,7 @@ amazon$data$tpm %>%
 
 ```{r}
 #| warning: false
+
 top_stories <- list()
 select_topic <- paste0("_", seq(from = 1, to = 5, by = 1))
 
@@ -785,7 +803,7 @@ for (i in select_topic) {
   
   top_stories[[i_gamma]] <- 
     amazon$data$tpm[order(amazon$data$tpm[i_gamma], decreasing = TRUE),] |>
-    select(id, year, src, review_title, review_text, review_star,
+    select(id, date, src, review_title, review_text, review_star,
            valence, polarity, pol_fct, val_fct,
            top_gamma, all_of(i_gamma),
            top_topic, all_of(i_topic), review_body) |>
@@ -873,11 +891,14 @@ print_output_abstracts <- function(x) {
            ***************************************************
            
            ID: {output[[i]]$data$id[[j]]} \n
+           Date: {output[[i]]$data$date[[j]]} \n
            Title: {output[[i]]$data$review_title[[j]]} \n
            Gamma: {round(output[[i]]$data$gamma[[j]],3)} \n
            Review: \r
            {output[[i]]$data$review_text[[j]]} \n
-           Rating: {output[[i]]$data$review_star[[j]]}
+           Rating: {output[[i]]$data$review_star[[j]]} \n
+           Valence: {output[[i]]$data$val_fct[[j]]} ({round(output[[i]]$data$valence[[j]],3)}) \n
+           Polarity: {output[[i]]$data$pol_fct[[j]]} ({round(output[[i]]$data$polarity[[j]],3)}) 
            \n\n") |> print() 
     }
   }
